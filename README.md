@@ -1,4 +1,8 @@
-### Hi there 👋 It's me, Nishan Paul. Welcome to my Github profile. Hope, you may find some help here and knock me if you want share something or need any contrubution.
+### Hi there 👋 
+It's me, Nishan Paul. 
+Welcome to my github profile. 
+Hope, you may find some help here.
+Kknock me if you want to share something or need any contrubution.
 
 [problem-and-algorithm](https://github.com/nishan-paul-2022/problem-and-algorithm)
 [sessional-related-problem-and-assignment](https://github.com/nishan-paul-2022/sessional-related-problem-and-assignment)
