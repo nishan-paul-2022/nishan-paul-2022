@@ -10,4 +10,6 @@
 
 - [python-basic-matplot-numpy-panda-scipy-tkinter](https://github.com/nishan-paul-2022/python-basic-matplot-numpy-panda-scipy-tkinter)
 
+- [some-random-projects-using-python](https://github.com/nishan-paul-2022/some-random-projects-using-python)
+
 - [barcode-scanner-using-django](https://github.com/nishan-paul-2022/barcode-scanner-using-django)
