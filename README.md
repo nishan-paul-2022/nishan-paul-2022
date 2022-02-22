@@ -13,3 +13,5 @@
 - [some-random-projects-using-python](https://github.com/nishan-paul-2022/some-random-projects-using-python)
 
 - [barcode-scanner-using-django](https://github.com/nishan-paul-2022/barcode-scanner-using-django)
+
+- [learn-opencv](https://github.com/nishan-paul-2022/learn-opencv)
