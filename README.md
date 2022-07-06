@@ -17,3 +17,7 @@
 - [barcode-scanner-using-django](https://github.com/nishan-paul-2022/barcode-scanner-using-django)
 
 - [learn-opencv](https://github.com/nishan-paul-2022/learn-opencv)
+
+- [self-performance-evaluation](https://github.com/nishan-paul-2022/self-performance-evaluation)
+
+- [job-recruitment-agency](https://github.com/nishan-paul-2022/job-recruitment-agency)
