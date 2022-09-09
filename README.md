@@ -14,10 +14,12 @@
 
 - [desktop-media-player](https://github.com/nishan-paul-2022/desktop-media-player)
 
-- [barcode-scanner-using-django](https://github.com/nishan-paul-2022/barcode-scanner-using-django)
-
 - [learn-opencv](https://github.com/nishan-paul-2022/learn-opencv)
 
-- [self-performance-evaluation](https://github.com/nishan-paul-2022/self-performance-evaluation)
+- [self-performance-evaluation](https://github.com/nishan-paul-2022/performance-evaluation-for-myself)
+
+- [barcode-scanner-using-django](https://github.com/nishan-paul-2022/barcode-scanner-using-django)
+
+- [cough-type-chronic-disease-prediction](https://github.com/nishan-paul-2022/cough-type-chronic-disease-prediction)
 
 - [job-recruitment-agency](https://github.com/nishan-paul-2022/job-recruitment-agency)
