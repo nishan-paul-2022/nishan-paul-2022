@@ -23,3 +23,5 @@
 - [python-basic-matplot-numpy-panda-scipy-tkinter](https://github.com/nishan-paul-2022/python-basic-matplot-numpy-panda-scipy-tkinter)
 
 - [practice-code-for-web-developing](https://github.com/nishan-paul-2022/practice-code-for-web-developing)
+
+- [javascript](https://github.com/nishan-paul-2022/javascript)
