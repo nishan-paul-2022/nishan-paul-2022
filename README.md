@@ -2,7 +2,7 @@
 
 - [barcode-scanner-using-django](https://github.com/nishan-paul-2022/barcode-scanner-using-django)
 
-- [performance-evaluation-for-myself](https://github.com/nishan-paul-2022/performance-evaluation-for-myself)
+- [color-palette-generator-web-app](https://github.com/nishan-paul-2022/color-palette-generator-web-app)
 
 - [job-recruitment](https://github.com/nishan-paul-2022/job-recruitment)
 
