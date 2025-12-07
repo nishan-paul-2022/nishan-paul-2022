@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my github profile. Hope, you may find it useful enough. Contact if you want to share something or need any contribution. Here is a list of my github repository. Wish me best luck. 
 
-- [barcode-scanner-using-django](https://github.com/nishan-paul-2022/barcode-scanner-using-django)
+- [barcody-barcode-scanner-for-anything](https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything)
 
 - [color-palette-generator-web-app](https://github.com/nishan-paul-2022/color-palette-generator-web-app)
 
