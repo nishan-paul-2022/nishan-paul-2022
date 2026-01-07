@@ -2,8 +2,6 @@
 
 - [barcody-barcode-scanner-for-anything](https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything)
 
-- [color-palette-generator-web-app](https://github.com/nishan-paul-2022/color-palette-generator-web-app)
-
 - [job-recruitment](https://github.com/nishan-paul-2022/job-recruitment)
 
 - [cough-type-chronic-disease-prediction](https://github.com/nishan-paul-2022/cough-type-chronic-disease-prediction)
