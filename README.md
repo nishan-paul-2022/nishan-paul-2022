@@ -5,19 +5,22 @@
   ### **Full-Stack AI Engineer | DevOps | Cybersecurity | Researcher**
   
   <p align="center">
-    <a href="https://github.com/nishan-paul-hello">
+    <a href="https://github.com/nishan-paul-hello" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-nishan--paul--hello-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
-    <a href="https://www.linkedin.com/in/nishanpaul2022/">
+    <a href="https://www.linkedin.com/in/nishanpaul2022" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-nishanpaul2022-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:nishan.paul.hello@gmail.com">
+    <a href="mailto:nishan.paul.hello@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-nishan.paul.hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://kaiofficial.xyz" target="_blank">
       <img src="https://img.shields.io/badge/OSS_Brand-KAI-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
     </a>
-    <a href="assets/resume-nishan-paul.pdf">
+    <a href="https://nishanpaul.medium.com" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-nishanpaul-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="assets/resume-nishan-paul.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
   </p>
@@ -82,14 +85,12 @@ I have a deep-rooted passion for **Data Structures and Algorithms**, with a prov
 </div>
 
 <div align="center">
-
 | Platform | Solved | Handler | Status Badge |
 | :--- | :--- | :--- | :--- |
 | **Codeforces** | **236** | [**batman-TDK**](https://codeforces.com/profile/batman-TDK) | ![Codeforces](https://img.shields.io/badge/Rating-Specialist-444?style=flat-square&logo=codeforces&logoColor=white) |
 | **LightOJ** | **89** | [**xor.2025**](https://lightoj.com/user/xor.2025) | ![LightOJ](https://img.shields.io/badge/Solved-90-yellow?style=flat-square&logo=lightoj&logoColor=black) |
 | **Virtual Judge** | **81** | [**nishan007**](https://vjudge.net/user/nishan007) | ![VJudge](https://img.shields.io/badge/Solved-81-red?style=flat-square) |
 | **UVA** | **14** | [**nishan-paul**](https://uhunt.onlinejudge.org/id/897154) | ![UVA](https://img.shields.io/badge/Solved-14-blue?style=flat-square) |
-
 </div>
 
 ---
@@ -111,29 +112,26 @@ I have a deep-rooted passion for **Data Structures and Algorithms**, with a prov
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ) — **University of Michigan**
 - [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/7QY24546CEVY) — **University of Michigan**
 - [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/9N9KP5DNVZPM) — **DeepLearning.AI**
-- [Internet of Things (IOT)](https://www.linkedin.com/in/nishanpaul2022/details/featured/1635501340407/single-media-viewer/) — **Cisco**
 
 ---
 
 ## ✍️ Technical Writing & Blogs
 
-- [Backtracking Technique & N-Queen Problem](https://nishanpaul.medium.com/backtrackingtechnique-and-n-queen-problem-acfa8bdd2be3) — **Medium**
-- [Tiling a Defective Chessboard using Divide & Conquer](https://nishanpaul.medium.com/tiling-a-defective-chessboard-using-divide-conqueurtechnique-d59d6e61a562) — **Medium**
-- [Optimizing Development: Setting up Flutter on VSCode](https://medium.com/@nishanpaul/how-to-setup-flutter-on-vscode-d8e0becbf3b9) — **Medium**
+- [Backtracking Technique & N-Queen Problem](https://nishanpaul.medium.com/backtrackingtechnique-and-n-queen-problem-acfa8bdd2be3)
+- [Tiling a Defective Chessboard using Divide & Conquer](https://nishanpaul.medium.com/tiling-a-defective-chessboard-using-divide-conqueurtechnique-d59d6e61a562)
+- [Optimizing Development: Setting up Flutter on VSCode](https://medium.com/@nishanpaul/how-to-setup-flutter-on-vscode-d8e0becbf3b9)
 
 ---
 
+## 🔱 **Thinking Framework**
+
 <div align="center">
-  
-  ### ⚡ THE IDEAL
-  <p align="center">
-    <i>"If you make yourself more than just a man, if you devote yourself to an ideal, and if they can't stop you, then you become something else entirely..."</i>
-  </p>
-  
-  **"Which is?"**
-  
-  # **"A legend, Mr. Wayne."**
-  
-  — **HENRI DUCARD**, *BATMAN BEGINS*
-    
+
+*"If you make yourself more than just a man, if you devote yourself to an ideal, and if they can't stop you, then you become something else entirely..."*
+
+*"Which is?"*
+
+*"A legend, Mr. Wayne."*
+
+— *Batman Begins (2005)*
 </div>
