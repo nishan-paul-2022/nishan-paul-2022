@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo-kai.svg" alt="KAI Logo" width="200" />
 
-  # 🤖 Nishan Paul
+  # 🦅 Nishan Paul
   ### **Full-Stack AI Engineer | DevOps | Cybersecurity | Researcher**
   
   <p align="center">
@@ -36,15 +36,6 @@ I am a **Full-Stack AI Engineer** and **Security Researcher** currently pursuing
 - 🎓 **Education**: MSc in Cybersecurity (**Dhaka University**) | BSc in CSE (**CUET**).
 - 🏆 **Recognition**: Top 10 at **Vivasoft AI Hackathon 2025**.
 - 🧠 **Problem Solver**: Competitive Programmer with **421+ solved problems** across global platforms.
-
----
-
-## 💼 Professional Experience
-
-- ☁️ **Intern** | [Tech Cloud Ltd.](https://techcloudltd.com/) (2021)
-  - Developed an accounting software suite using **Laravel**, streamlining financial management for enterprise clients.
-- 🖋️ **Contract Developer** | [Dreams For Tomorrow](https://hello.dreams4tomorrow.org/) (2019)
-  - Engineered a **PHP-based** blogging platform serving as a unified communication portal for teachers and students.
 
 ---
 
