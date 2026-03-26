@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-I am a passionate software engineer with a deep fascination for building intelligent, secure, and scalable digital systems. My expertise spans across **Full-Stack Development**, **Artificial Intelligence**, and **DevOps**, with a primary focus on architecting resilient infrastructures. I thrive at the intersection of offensive security and modern AI, constantly exploring new ways to automate defense and strengthen the overall security posture and digital resilience.
+I am a passionate software engineer with a deep fascination for building intelligent, secure, and scalable digital systems. My expertise spans across **Full-Stack Development**, **Artificial Intelligence**, and **DevOps**, with a primary focus on engineering high-availability, **zero-trust architectures**. I specialize in the convergence of **Agentic AI** and **Cybersecurity**, leveraging autonomous multi-agent orchestration to fortify digital ecosystems. I am dedicated to evolving **adaptive defense mechanisms** that proactively mitigate sophisticated adversarial threats at scale.
 
 - 🎓 **MSc in Cybersecurity** — [**Dhaka University**](https://www.du.ac.bd/) (**Ongoing**)
 - 🎓 **BSc in Computer Science** — [**Chittagong University of Engineering & Technology (CUET)**](https://www.cuet.ac.bd/)
@@ -74,7 +74,7 @@ I am a passionate software engineer with a deep fascination for building intelli
 I have a deep-rooted passion for **Data Structures and Algorithms**, with a proven track record of solving complex problems in high-pressure environments.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Problems_Solved-421%2B-0070f3?style=for-the-badge&logo=target&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Total_Problems_Solved-420%2B-0070f3?style=for-the-badge&logo=target&logoColor=white" alt="Total Solved" />
 </div>
 
 <div align="center">
@@ -82,7 +82,7 @@ I have a deep-rooted passion for **Data Structures and Algorithms**, with a prov
 | Platform | Solved | Handler | Status Badge |
 | :--- | :--- | :--- | :--- |
 | **Codeforces** | **236** | [**batman-TDK**](https://codeforces.com/profile/batman-TDK) | ![Codeforces](https://img.shields.io/badge/Rating-Specialist-444?style=flat-square&logo=codeforces&logoColor=white) |
-| **LightOJ** | **90** | [**nishan-paul**](https://lightoj.com/user/nishan-paul) | ![LightOJ](https://img.shields.io/badge/Solved-90-yellow?style=flat-square&logo=lightoj&logoColor=black) |
+| **LightOJ** | **89** | [**xor.2025**](https://lightoj.com/user/xor.2025) | ![LightOJ](https://img.shields.io/badge/Solved-90-yellow?style=flat-square&logo=lightoj&logoColor=black) |
 | **Virtual Judge** | **81** | [**nishan007**](https://vjudge.net/user/nishan007) | ![VJudge](https://img.shields.io/badge/Solved-81-red?style=flat-square) |
 | **UVA** | **14** | [**nishan-paul**](https://uhunt.onlinejudge.org/id/897154) | ![UVA](https://img.shields.io/badge/Solved-14-blue?style=flat-square) |
 
@@ -104,8 +104,8 @@ I have a deep-rooted passion for **Data Structures and Algorithms**, with a prov
 
 - [Managing Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/CP5JZTG7LK43) — **Google Cloud**
 - [Foundations in Digital Forensics](https://www.linkedin.com/in/nishanpaul2022/overlay/1635501341290/single-media-viewer/) — **Magnet Axiom**
-- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ) — **Coursera**
-- [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/7QY24546CEVY) — **Coursera**
+- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ) — **University of Michigan**
+- [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/7QY24546CEVY) — **University of Michigan**
 - [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/9N9KP5DNVZPM) — **DeepLearning.AI**
 - [Internet of Things (IOT)](https://www.linkedin.com/in/nishanpaul2022/details/featured/1635501340407/single-media-viewer/) — **Cisco**
 
