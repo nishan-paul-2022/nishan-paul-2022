@@ -236,11 +236,69 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
 
 > *Validating expertise through rigorous learning and industry-leading certifications.*
 
-- [Managing Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/CP5JZTG7LK43) — **Google Cloud**
-- [Foundations in Digital Forensics](https://www.linkedin.com/in/nishanpaul2022/overlay/1635501341290/single-media-viewer/) — **Magnet Axiom**
-- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ) — **University of Michigan**
-- [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/7QY24546CEVY) — **University of Michigan**
-- [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/9N9KP5DNVZPM) — **DeepLearning.AI**
+<div align="center">
+
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 12px;">
+  <tr>
+    <!-- PRIMARY HIGHLIGHT: GOOGLE CLOUD AI/ML -->
+    <td width="60%" rowspan="2" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 25px; background: rgba(66, 133, 244, 0.05);">
+        <br/>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+        <br/><br/>
+        <h3><b>Managing Machine Learning Projects</b></h3>
+        <p><i>Orchestrating enterprise-scale AI lifecycles and autonomous ML orchestration systems.</i></p>
+        <br/>
+        <a href="https://www.coursera.org/account/accomplishments/certificate/CP5JZTG7LK43" target="_blank">
+            <img src="https://img.shields.io/badge/CREDENTIAL_VERIFIED-↗-blue?style=flat-square" />
+        </a>
+        <br/><br/>
+    </td>
+    <!-- SECONDARY: MAGNET AXIOM -->
+    <td width="40%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+        <img src="https://img.icons8.com/bubbles/100/shield.png" width="50" /><br/>
+        <img src="https://img.shields.io/badge/MAGNET-Digital_Forensics-E11D48?style=flat-square" /><br/>
+        <a href="https://www.linkedin.com/in/nishanpaul2022/overlay/1635501341290/single-media-viewer/" target="_blank">
+            <img src="https://img.shields.io/badge/STATUS-VERIFIED-success?style=flat-square" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- SECONDARY: DEEPLEARNING.AI -->
+    <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+        <img src="https://img.icons8.com/bubbles/100/brain.png" width="50" /><br/>
+        <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-FF6F00?style=flat-square&logo=coursera" /><br/>
+        <a href="https://www.coursera.org/account/accomplishments/certificate/9N9KP5DNVZPM" target="_blank">
+            <img src="https://img.shields.io/badge/STATUS-MASTERED-orange?style=flat-square" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- TERTIARY WIDE: UNIVERSITY OF MICHIGAN PYTHON TRACK -->
+    <td colspan="2" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 25px; background: rgba(255, 203, 5, 0.05);">
+        <img src="https://img.shields.io/badge/University_of_Michigan-Python_Specialization-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="UofM" /><br/><br/>
+        <table align="center" width="90%" style="border: none;">
+          <tr>
+            <td align="center" style="border: none;">
+                <p><b>Data Structures</b></p>
+                <a href="https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ" target="_blank">
+                    <img src="https://img.shields.io/badge/VALIDATE-↗-yellow?style=flat-square" />
+                </a>
+            </td>
+            <td align="center" style="border: none; border-left: 1px solid #30363d;">
+                <p><b>Core Python</b></p>
+                <a href="https://www.coursera.org/account/accomplishments/certificate/7QY24546CEVY" target="_blank">
+                    <img src="https://img.shields.io/badge/VALIDATE-↗-yellow?style=flat-square" />
+                </a>
+            </td>
+          </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
