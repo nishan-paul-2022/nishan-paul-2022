@@ -129,22 +129,24 @@ I am a passionate software engineer with a deep fascination for building intelli
 
 ---
 
-## 🧠 Algorithmic Prowess & Competitive Programming
+## 🧠 Competitive Programming & Algorithms
 
 > *Strong foundation in Data Structures & Algorithms with a focus on complex problem solving.*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Problems_Solved-420%2B-0070f3?style=for-the-badge&logo=target&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/TOTAL_ALGORITHMIC_SOLUTIONS-420%2B-0070f3?style=for-the-badge&logo=target&logoColor=white" alt="Total Solved" />
 </div>
+
+<br/>
 
 <div align="center">
 
-| Platform | Solved | Handler | Status Badge |
-| :--- | :--- | :--- | :--- |
-| **Codeforces** | **236** | [**batman-TDK**](https://codeforces.com/profile/batman-TDK) | ![Codeforces](https://img.shields.io/badge/Rating-Pupil_1373-4CAF50?style=flat-square&logo=codeforces&logoColor=white) |
-| **LightOJ** | **89** | [**xor.2025**](https://lightoj.com/user/xor.2025) | ![LightOJ](https://img.shields.io/badge/Solved-90-yellow?style=flat-square&logo=lightoj&logoColor=black) |
-| **Virtual Judge** | **81** | [**nishan007**](https://vjudge.net/user/nishan007) | ![VJudge](https://img.shields.io/badge/Solved-81-red?style=flat-square) |
-| **UVA** | **14** | [**nishan-paul**](https://uhunt.onlinejudge.org/id/897154) | ![UVA](https://img.shields.io/badge/Solved-14-blue?style=flat-square) |
+| Platform | Handler | Solved | Status |
+| :--- | :---: | :--- | :--- |
+| **Codeforces** | [`batman-TDK`](https://codeforces.com/profile/batman-TDK) | `████████░░` **236** | ![Rating](https://img.shields.io/badge/Pupil-1373-4CAF50?style=flat-square&logo=codeforces&logoColor=white) |
+| **LightOJ** | [`xor.2025`](https://lightoj.com/user/xor.2025) | `███░░░░░░░` **89** | ![Status](https://img.shields.io/badge/Solved-90-yellow?style=flat-square&logo=lightoj&logoColor=black) |
+| **Virtual Judge** | [`nishan007`](https://vjudge.net/user/nishan007) | `███░░░░░░░` **81** | ![Status](https://img.shields.io/badge/Solved-81-red?style=flat-square) |
+| **UVA Judge** | [`nishan-paul`](https://uhunt.onlinejudge.org/id/897154) | `█░░░░░░░░░` **14** | ![Status](https://img.shields.io/badge/Solved-14-blue?style=flat-square) |
 
 </div>
 
@@ -162,7 +164,7 @@ I am a passionate software engineer with a deep fascination for building intelli
     <td align="center" width="45%" rowspan="2" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
       <br/>
       <img src="https://img.icons8.com/bubbles/200/trophy.png" width="120"/><br/>
-      <h3>✨ 2025 PREMIER</h3>
+      <h3>✨ 2025</h3>
       <a href="https://ibb.co.com/1Y2XpGpC"><b>Vivasoft AI Hackathon</b></a><br/>
       <i>Architected AI solutions with Team KAI</i><br/><br/>
       <img src="https://img.shields.io/badge/RANKING-TOP_10-gold?style=for-the-badge&logo=target" height="30" />
