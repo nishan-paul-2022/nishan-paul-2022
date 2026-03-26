@@ -17,6 +17,9 @@
     <a href="https://kaiofficial.xyz" target="_blank">
       <img src="https://img.shields.io/badge/OSS_Brand-KAI-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
     </a>
+    <a href="curriculum-vitae/curriculum-vitae.pdf">
+      <img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    </a>
   </p>
 
   ---
@@ -27,11 +30,21 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack AI Engineer** and **Security Researcher** (Alumnus of **CUET**) dedicated to building the **[KAI](https://kaiofficial.xyz/)** open-source software brand. My vision with KAI is to architect high-performance, AI-driven applications that prioritize security and decentralized connectivity.
+I am a **Full-Stack AI Engineer** and **Security Researcher** currently pursuing an **MSc in Cybersecurity at Dhaka University**. I am dedicated to building the **[KAI](https://kaiofficial.xyz/)** open-source software brand, architecting high-performance applications that prioritize security and decentralized connectivity.
 
 - 🛠️ **Founder**: [KAI Official](https://kaiofficial.xyz/) — An open-source software brand for modern intelligent systems.
+- 🎓 **Education**: MSc in Cybersecurity (**Dhaka University**) | BSc in CSE (**CUET**).
 - 🏆 **Recognition**: Top 10 at **Vivasoft AI Hackathon 2025**.
-- 🧠 **Competitive Programmer**: Former ICPC Regionalist (308th) with 400+ problems solved.
+- 🧠 **Problem Solver**: Competitive Programmer with **421+ solved problems** across global platforms.
+
+---
+
+## 💼 Professional Experience
+
+- ☁️ **Intern** | [Tech Cloud Ltd.](https://techcloudltd.com/) (2021)
+  - Developed an accounting software suite using **Laravel**, streamlining financial management for enterprise clients.
+- 🖋️ **Contract Developer** | [Dreams For Tomorrow](https://hello.dreams4tomorrow.org/) (2019)
+  - Engineered a **PHP-based** blogging platform serving as a unified communication portal for teachers and students.
 
 ---
 
@@ -41,11 +54,11 @@ I am a **Full-Stack AI Engineer** and **Security Researcher** (Alumnus of **CUET
 
 | Category | Technologies |
 | :--- | :--- |
-| **🛡️ Cybersecurity & Networking** | ![InfoSec](https://img.shields.io/badge/InfoSec-Shield-red?style=flat-square) ![NetSec](https://img.shields.io/badge/Network_Security-333?style=flat-square&logo=wireshark) ![PenTest](https://img.shields.io/badge/Penetration_Testing-black?style=flat-square&logo=linux) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-000?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-blue?style=flat-square) ![Forensics](https://img.shields.io/badge/Digital_Forensics-444?style=flat-square) ![SIEM](https://img.shields.io/badge/SIEM-SOC-000?style=flat-square) |
-| **🤖 Artificial Intelligence** | ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch) ![LLMs/Transformers](https://img.shields.io/badge/LLMs-Transformer-purple?style=flat-square) ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv) ![VectorDB](https://img.shields.io/badge/Vector_DB-Qdrant-darkred?style=flat-square) |
-| **🌐 Web Engineering** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Laravel/PHP](https://img.shields.io/badge/php_laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **🏗️ Infra & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-Actions-blue?style=flat-square&logo=githubactions&logoColor=white) |
-| **⚙️ Systems & Core** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Competitive Programming](https://img.shields.io/badge/CP-Codeforces-orange?style=flat-square) |
+| **🛡️ Cybersecurity** | ![NetSec](https://img.shields.io/badge/Network_Security-333?style=flat-square&logo=wireshark) ![PenTest](https://img.shields.io/badge/Penetration_Testing-black?style=flat-square&logo=linux) ![Cryptography](https://img.shields.io/badge/Cryptography-blue?style=flat-square) ![Forensics](https://img.shields.io/badge/Digital_Forensics-444?style=flat-square) ![SIEM](https://img.shields.io/badge/SIEM-SOC-000?style=flat-square) |
+| **🤖 AI Engineering** | ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML/DL](https://img.shields.io/badge/ML/DL-FF6F00?style=flat-square&logo=tensorflow) ![LangChain](https://img.shields.io/badge/LangGraph_/_Chain-1C3C3C?style=flat-square&logo=langchain) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv) ![VectorDB](https://img.shields.io/badge/Vector_DB-Qdrant-darkred?style=flat-square) |
+| **🌐 Web Stack** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **🏗️ Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-Actions-blue?style=flat-square&logo=githubactions&logoColor=white) |
+| **🛠️ Tools** | ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Antigravity](https://img.shields.io/badge/AI_Tools-Antigravity/Cursor-black?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-Jest/Postman-C21325?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
@@ -57,12 +70,62 @@ I am a **Full-Stack AI Engineer** and **Security Researcher** (Alumnus of **CUET
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **AI-Powered VAPT Orchestrator.** Multi-agent system for autonomous security scanning. | `LangGraph`, `FastAPI`, `Next.js` | 🚀 [Live](https://cmatrix.kaiofficial.xyz) |
-| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Universal Barcode Intelligence.** Enterprise-scanner with private networking. | `NestJS`, `PostgreSQL` | 🚀 [Live](https://barcody.kaiofficial.xyz) |
-| **[Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing)** | **Instant P2P File Sharing.** Direct transfers using WebRTC. | `Next.js 15`, `PeerJS` | 🚀 [Live](https://flick.kaiofficial.xyz) |
-| **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **MD to PDF Suite.** High-fidelity generation with Mermaid support. | `Next.js`, `Playright` | 🚀 [Live](https://markify.kaiofficial.xyz) |
+| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **AI-Powered VAPT Intelligence.** Multi-agent system for autonomous scanning. | `LangGraph`, `FastAPI`, `Celery` | 🚀 [Live](https://cmatrix.kaiofficial.xyz) |
+| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Unified Barcode Intelligence.** Enterprise-scanner with private networking. | `NestJS`, `TypeORM`, `Tailscale` | 🚀 [Live](https://barcody.kaiofficial.xyz) |
+| **[Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing)** | **Instant P2P File Sharing.** Direct transfers using WebRTC. | `Next.js 15`, `PeerJS`, `Zustand` | 🚀 [Live](https://flick.kaiofficial.xyz) |
+| **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **Professional Markdown Suite.** High-fidelity generation with Mermaid support. | `Next.js`, `Playright`, `Prisma` | 🚀 [Live](https://markify.kaiofficial.xyz) |
 
 </div>
+
+---
+
+## 🧠 Problem Solving & Algorithmic Prowess
+
+I have a strong foundation in **Data Structures and Algorithms**, with **420+ solved problems** across major platforms.
+
+<div align="center">
+
+| Platform | Solved | Profile Link |
+| :--- | :--- | :--- |
+| **Codeforces** | **236** | [batman-TDK](https://codeforces.com/profile/batman-TDK) |
+| **LightOJ** | **90** | [nishan-paul](https://lightoj.com/user/nishan-paul) |
+| **Virtual Judge** | **81** | [nishan007](https://vjudge.net/user/nishan007) |
+| **UVA** | **14** | [nishan-paul](https://uhunt.onlinejudge.org/id/897154) |
+
+</div>
+
+> **Topics Mastered**: Dynamic Programming, Greedy, Strings, Math, Implementation, Hashing, Bit Manipulation, Graphs.
+
+---
+
+## 🏆 Key Achievements
+
+- 🏅 **[Vivasoft AI Hackathon 2025](https://ibb.co.com/1Y2XpGpC)**: Team **KAI** | Ranking: **Top 10**
+- 🥈 **CUET Career Club 2018**: Team **CUET_IRON_BAT** | Ranking: **02**
+- 🥉 **[USTC IUPC 2018](https://www.linkedin.com/feed/update/urn:li:activity:6893481092637192192/)**: Team **CUET_IRON_BAT** | Ranking: **Top 50**
+- 🎯 **[CUET CSE Fest 2017](https://www.linkedin.com/in/nishanpaul2022/details/featured/1635501338525/single-media-viewer/)**: Team **CUET_iron_bat** | Ranking: **20**
+- 📜 **[ICPC Regional Site Online 2017](https://www.linkedin.com/feed/update/urn:li:activity:6893482608584466432/)**: Team **iRON-BAT** | Ranking: **308**
+
+---
+
+## 📜 Certificates & continuous Learning
+
+- **Managing Machine Learning Projects** — Google Cloud
+- **Foundations in Digital Forensics** — Magnet Axiom
+- **Python Data Structures** — Coursera
+- **Getting Started with Python** — Coursera
+- **AI For Everyone** — DeepLearning.AI
+- **Internet of Things (IOT)** — Cisco
+
+---
+
+## ✍️ Technical Writing & Blogs
+
+Sharing knowledge through in-depth technical articles:
+
+- [Backtracking Technique & N-Queen Problem](https://kaiofficial.xyz/blog/backtracking)
+- [Tiling a Defective Chessboard using Divide & Conquer](https://kaiofficial.xyz/blog/chessboard)
+- [Optimizing Development: Setting up Flutter on VSCode](https://kaiofficial.xyz/blog/flutter-setup)
 
 ---
 
