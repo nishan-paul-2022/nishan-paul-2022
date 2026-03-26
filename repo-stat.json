@@ -1,0 +1,168 @@
+{
+    "global": {
+        "total_repos": 26,
+        "total_commits": 2891,
+        "total_loc": 540962,
+        "tenure_years": 4.2,
+        "avg_commits_month": 58.0,
+        "streak_days": 89,
+        "avg_loc_per_project": 20806
+    },
+    "languages": {
+        "Markdown": 26.53,
+        "JSON": 25.94,
+        "CSS": 15.1,
+        "JavaScript": 8.14,
+        "Python": 7.39,
+        "HTML": 5.65,
+        "TypeScript": 5.02,
+        "C": 4.26,
+        "PHP": 1.3,
+        "C++": 0.66
+    },
+    "frameworks": {
+        "Next.js/Node.js": 19.23,
+        "FastAPI/Python": 15.38
+    },
+    "weekly_activity": {
+        "Monday": 2.14,
+        "Tuesday": 2.04,
+        "Wednesday": 1.95,
+        "Thursday": 1.87,
+        "Friday": 1.62,
+        "Saturday": 1.9,
+        "Sunday": 1.81
+    },
+    "repositories": [
+        {
+            "name": "barcody-barcode-scanner-for-anything",
+            "commits": 616,
+            "loc": 41590
+        },
+        {
+            "name": "PMICS-July-2025-Batch-05",
+            "commits": 545,
+            "loc": 105217
+        },
+        {
+            "name": "markify-md-to-pdf-converter",
+            "commits": 430,
+            "loc": 19727
+        },
+        {
+            "name": "javascript",
+            "commits": 247,
+            "loc": 25839
+        },
+        {
+            "name": "flick-p2p-file-sharing",
+            "commits": 225,
+            "loc": 22073
+        },
+        {
+            "name": "cmatrix-agentic-red-team",
+            "commits": 149,
+            "loc": 35623
+        },
+        {
+            "name": "docs",
+            "commits": 126,
+            "loc": 6971
+        },
+        {
+            "name": "language-c",
+            "commits": 103,
+            "loc": 22420
+        },
+        {
+            "name": "fringecore-coding-interview-preparation",
+            "commits": 77,
+            "loc": 96189
+        },
+        {
+            "name": "column-simple-blogging-site",
+            "commits": 76,
+            "loc": 9635
+        },
+        {
+            "name": "recrutar",
+            "commits": 58,
+            "loc": 37419
+        },
+        {
+            "name": "kai-web",
+            "commits": 47,
+            "loc": 11264
+        },
+        {
+            "name": "nishan-paul-2022",
+            "commits": 46,
+            "loc": 456
+        },
+        {
+            "name": "joblio-job-application-manager",
+            "commits": 32,
+            "loc": 250
+        },
+        {
+            "name": "sonix-desktop-media-player",
+            "commits": 20,
+            "loc": 458
+        },
+        {
+            "name": "performance-evaluation-for-myself",
+            "commits": 14,
+            "loc": 2713
+        },
+        {
+            "name": "PhD-Application",
+            "commits": 12,
+            "loc": 208
+        },
+        {
+            "name": "learn-opencv",
+            "commits": 12,
+            "loc": 2647
+        },
+        {
+            "name": "cough-type-chronic-disease-prediction",
+            "commits": 11,
+            "loc": 2339
+        },
+        {
+            "name": "desktop-app-for-cryptography",
+            "commits": 8,
+            "loc": 347
+        },
+        {
+            "name": "practice-code-for-web-developing",
+            "commits": 8,
+            "loc": 17789
+        },
+        {
+            "name": "problem-and-algorithm",
+            "commits": 7,
+            "loc": 24
+        },
+        {
+            "name": "job-recruitment",
+            "commits": 6,
+            "loc": 32838
+        },
+        {
+            "name": "dreams-for-tomorrow",
+            "commits": 6,
+            "loc": 35996
+        },
+        {
+            "name": "python-basic-matplot-numpy-panda-scipy-tkinter",
+            "commits": 5,
+            "loc": 6107
+        },
+        {
+            "name": "sessional-related-problem-and-assignment",
+            "commits": 5,
+            "loc": 4823
+        }
+    ]
+}
