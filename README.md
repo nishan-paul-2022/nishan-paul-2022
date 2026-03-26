@@ -6,13 +6,13 @@
   
   <p align="center">
     <a href="https://github.com/nishan-paul-hello">
-      <img src="https://img.shields.io/github/followers/nishan-paul-hello?label=Follow&style=for-the-badge&color=0070f3&logo=github" alt="Followers" />
+      <img src="https://img.shields.io/badge/GitHub-nishan--paul--hello-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
     <a href="https://www.linkedin.com/in/nishanpaul2022/">
-      <img src="https://img.shields.io/badge/LinkedIn-Nishan_Paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-nishanpaul2022-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:nishan.paul.hello@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-0070f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-nishan.paul.hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://kaiofficial.xyz" target="_blank">
       <img src="https://img.shields.io/badge/OSS_Brand-KAI-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
@@ -24,17 +24,17 @@
 
   ---
 
-  *"Building the future of open-source intelligence and resilient digital infrastructure through the **KAI** ecosystem."*
+  *“[KAI](https://kaiofficial.xyz/) builds AI-powered, open-source systems to orchestrate autonomous defense and eliminate threats across the cyber domain.”*
 
 </div>
 
 ## 🚀 About Me
 
-I am a **Full-Stack AI Engineer** and **Security Researcher** currently pursuing an **MSc in Cybersecurity at Dhaka University**. I am dedicated to building the **[KAI](https://kaiofficial.xyz/)** open-source software brand, architecting high-performance applications that prioritize security and decentralized connectivity.
+I am a passionate software engineer with a deep fascination for building intelligent, secure, and scalable digital systems. My expertise spans across **Full-Stack Development**, **Artificial Intelligence**, and **DevOps**, with a primary focus on architecting resilient infrastructures. I thrive at the intersection of offensive security and modern AI, constantly exploring new ways to automate defense and strengthen the overall security posture and digital resilience.
 
-- 🛠️ **Founder**: [KAI Official](https://kaiofficial.xyz/) — An open-source software brand for modern intelligent systems.
-- 🎓 **Education**: MSc in Cybersecurity (**Dhaka University**) | BSc in CSE (**CUET**).
-- 🏆 **Recognition**: Top 10 at **Vivasoft AI Hackathon 2025**.
+- 🎓 **MSc in Cybersecurity** — [**Dhaka University**](https://www.du.ac.bd/) (**Ongoing**)
+- 🎓 **BSc in Computer Science** — [**Chittagong University of Engineering & Technology (CUET)**](https://www.cuet.ac.bd/)
+- 🎓 **Higher Secondary Certificate (HSC)** — [**Notre Dame College, Dhaka**](https://ndc.edu.bd/)
 
 ---
 
@@ -88,19 +88,6 @@ I have a deep-rooted passion for **Data Structures and Algorithms**, with a prov
 
 </div>
 
-### 🎯 Key Algorithmic Competencies:
-<div align="center">
-  <img src="https://img.shields.io/badge/Dynamic_Programming-10-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Greedy_Algorithms-38-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/String_Manipulation-16-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mathematical_Problem_Solving-54-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Implementation-89-purple?style=flat-square" />
-  <br />
-  <img src="https://img.shields.io/badge/Graph_Theory-Active-black?style=flat-square&logo=network-wired" />
-  <img src="https://img.shields.io/badge/Hashing_&_Sets-Active-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bit_Manipulation-Active-black?style=flat-square" />
-</div>
-
 ---
 
 ## 🏆 Key Achievements
@@ -132,30 +119,17 @@ I have a deep-rooted passion for **Data Structures and Algorithms**, with a prov
 
 ---
 
-## 📊 Analytics & Impact
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishan-paul-hello&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-paul-hello&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  
+  ### ⚡ THE IDEAL
+  <p align="center">
+    <i>"If you make yourself more than just a man, if you devote yourself to an ideal, and if they can't stop you, then you become something else entirely..."</i>
+  </p>
+  
+  **"Which is?"**
+  
+  # **"A legend, Mr. Wayne."**
+  
+  — **HENRI DUCARD**, *BATMAN BEGINS*
+    
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishan-paul-hello&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-- **Brand Portfolio**: [kaiofficial.xyz](https://kaiofficial.xyz)
-- **LinkedIn**: [Nishan Paul](https://www.linkedin.com/in/nishanpaul2022/)
-- **Email**: [nishan.paul.hello@gmail.com](mailto:nishan.paul.hello@gmail.com)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishan-paul-hello&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
----
-<p align="center">
-  <i>"Building the future, one open source repo at a time."</i>
-</p>
