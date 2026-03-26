@@ -30,7 +30,6 @@
 I am a **Full-Stack AI Engineer** and **Security Researcher** (Alumnus of **CUET**) dedicated to building the **[KAI](https://kaiofficial.xyz/)** open-source software brand. My vision with KAI is to architect high-performance, AI-driven applications that prioritize security and decentralized connectivity.
 
 - 🛠️ **Founder**: [KAI Official](https://kaiofficial.xyz/) — An open-source software brand for modern intelligent systems.
-- 🔭 **Featured Suite**: [CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team), [Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything), and [Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing).
 - 🏆 **Recognition**: Top 10 at **Vivasoft AI Hackathon 2025**.
 - 🧠 **Competitive Programmer**: Former ICPC Regionalist (308th) with 400+ problems solved.
 
@@ -54,29 +53,12 @@ I am a **Full-Stack AI Engineer** and **Security Researcher** (Alumnus of **CUET
 
 ## ✨ Developed Under the **KAI** Brand
 
-The following high-performance applications are part of the core **KAI** ecosystem:
-
 <div align="center">
 
-| Product | Focus | Tech Stack | Live Demo |
+| Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **Agentic VAPT Intelligence** | `LangGraph`, `FastAPI` | 🚀 [Live](https://cmatrix.kaiofficial.xyz) |
-| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Unified Barcode Intelligence** | `NestJS`, `Next.js 16` | 🚀 [Live](https://barcody.kaiofficial.xyz) |
-| **[Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing)** | **Instant P2P Transfer** | `WebRTC`, `Next.js 15` | 🚀 [Live](https://flick.kaiofficial.xyz) |
-| **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **Professional Markdown Suite** | `Node.js`, `Playright` | 🚀 [Live](https://markify.kaiofficial.xyz) |
-
-</div>
-
----
-
-## 🌟 Featured Engineering Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **AI-Powered VAPT Orchestrator.** Multi-agent system for autonomous security scanning. | `LangGraph`, `FastAPI`, `Next.js` | 🟢 Active |
-| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Universal Barcode Intelligence.** Enterprise-scanner with private networking. | `NestJS`, `PostgreSQL` | 🟢 Active |
+| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **AI-Powered VAPT Orchestrator.** Multi-agent system for autonomous security scanning. | `LangGraph`, `FastAPI`, `Next.js` | 🚀 [Live](https://cmatrix.kaiofficial.xyz) |
+| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Universal Barcode Intelligence.** Enterprise-scanner with private networking. | `NestJS`, `PostgreSQL` | 🚀 [Live](https://barcody.kaiofficial.xyz) |
 | **[Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing)** | **Instant P2P File Sharing.** Direct transfers using WebRTC. | `Next.js 15`, `PeerJS` | 🚀 [Live](https://flick.kaiofficial.xyz) |
 | **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **MD to PDF Suite.** High-fidelity generation with Mermaid support. | `Next.js`, `Playright` | 🚀 [Live](https://markify.kaiofficial.xyz) |
 
