@@ -17,7 +17,7 @@
     <a href="https://kaiofficial.xyz" target="_blank">
       <img src="https://img.shields.io/badge/OSS_Brand-KAI-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
     </a>
-    <a href="curriculum-vitae/curriculum-vitae.pdf">
+    <a href="assets/resume-nishan-paul.pdf">
       <img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
   </p>
