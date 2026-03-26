@@ -25,9 +25,6 @@
     </a>
   </p>
 
-  ---
-
-  *“[KAI](https://kaiofficial.xyz/) builds AI-powered, open-source systems to orchestrate autonomous defense and eliminate threats across the cyber domain.”*
 
 </div>
 
@@ -61,7 +58,25 @@ I am a passionate software engineer with a deep fascination for building intelli
 
 ---
 
+## 🛡️ The KAI Brand
+
+<div align="center">
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 30px; border: 1px solid #30363d; border-radius: 12px; background-color: rgba(48, 54, 61, 0.1);">
+      <img src="assets/logo-kai.svg" width="120" style="margin-bottom: 15px;" /><br/>
+      <p><b>KAI</b> is my own open-source software brand, dedicated to building autonomous defense systems and agentic AI frameworks.</p>
+      <hr style="width: 20%; border: 0; border-top: 1px solid #30363d; margin: 20px auto;"/>
+      <h3><i>“KAI builds AI-powered, open-source systems to orchestrate autonomous defense and eliminate threats across the cyber domain.”</i></h3>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
 ## 🌌 The [KAI](https://kaiofficial.xyz/) Ecosystem
+
 > *Building AI-driven systems that think, act, and defend in autonomous cyber operations.*
 
 <div align="center">
