@@ -69,8 +69,8 @@ I am a **Full-Stack AI Engineer** and **Security Researcher** (Alumnus of **CUET
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishan-paul-hello&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-paul-hello&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishan-paul-hello&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-paul-hello&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
