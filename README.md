@@ -152,11 +152,64 @@ I am a passionate software engineer with a deep fascination for building intelli
 
 ## 🏆 Key Achievements
 
-- 🏅 **[Vivasoft AI Hackathon 2025](https://ibb.co.com/1Y2XpGpC)**: Team **KAI** | Ranking: **Top 10**
-- 🥈 **CUET Career Club 2018**: Team **CUET_IRON_BAT** | Ranking: **02**
-- 🥉 **[USTC IUPC 2018](https://www.linkedin.com/feed/update/urn:li:activity:6893481092637192192/)**: Team **CUET_IRON_BAT** | Ranking: **Top 50**
-- 🎯 **[CUET CSE Fest 2017](https://www.linkedin.com/in/nishanpaul2022/details/featured/1635501338525/single-media-viewer/)**: Team **CUET_iron_bat** | Ranking: **20**
-- 📜 **[ICPC Regional Site Online 2017](https://www.linkedin.com/feed/update/urn:li:activity:6893482608584466432/)**: Team **iRON-BAT** | Ranking: **308**
+<br/>
+
+<div align="center">
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- PRIMARY HIGHLIGHT: VIVASOFT AI HACKATHON -->
+    <td align="center" width="45%" rowspan="2" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <br/>
+      <img src="https://img.icons8.com/bubbles/200/trophy.png" width="120"/><br/>
+      <h3>✨ 2025 PREMIER</h3>
+      <a href="https://ibb.co.com/1Y2XpGpC"><b>Vivasoft AI Hackathon</b></a><br/>
+      <i>Architected AI solutions with Team KAI</i><br/><br/>
+      <img src="https://img.shields.io/badge/RANKING-TOP_10-gold?style=for-the-badge&logo=target" height="30" />
+      <br/><br/>
+    </td>
+    <!-- SECONDARY TILE: CAREER CLUB -->
+    <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
+      <br/>
+      <b>🥈 2018</b><br/>
+      CUET Career Club<br/>
+      <i>Competitive Programming</i><br/><br/>
+      <img src="https://img.shields.io/badge/RANK-02-silver?style=flat-square" /><br/>
+      <br/>
+    </td>
+    <!-- SECONDARY TILE: USTC IUPC -->
+    <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
+      <br/>
+      <b>🥉 2018</b><br/>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:6893481092637192192/">USTC IUPC</a><br/>
+      <i>Competitive Programming</i><br/><br/>
+      <img src="https://img.shields.io/badge/TOP-50-CD7F32?style=flat-square" /><br/>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <!-- SECONDARY TILE: CUET CSE FEST -->
+    <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
+      <br/>
+      <b>🎯 2017</b><br/>
+      <a href="https://www.linkedin.com/in/nishanpaul2022/details/featured/1635501338525/single-media-viewer/">CUET CSE Fest</a><br/>
+      <i>Competitive Programming</i><br/><br/>
+      <img src="https://img.shields.io/badge/RANK-20-blue?style=flat-square" /><br/>
+      <br/>
+    </td>
+    <!-- SECONDARY TILE: ICPC REGIONAL -->
+    <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
+      <br/>
+      <b>📜 2017</b><br/>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:6893482608584466432/">ICPC Regional Site</a><br/>
+      <i>Competitive Programming</i><br/><br/>
+      <img src="https://img.shields.io/badge/RANK-308-black?style=flat-square" /><br/>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -181,7 +234,6 @@ I am a passionate software engineer with a deep fascination for building intelli
 ## 🔱 **Thinking Framework**
 
 <div align="center">
-
 *"If you make yourself more than just a man, if you devote yourself to an ideal, and if they can't stop you, then you become something else entirely..."*
 
 *"Which is?"*
