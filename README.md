@@ -52,7 +52,7 @@ I am a passionate software engineer with a deep fascination for building intelli
 | **🖥️ Backend Systems Engineering** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs) ![REST](https://img.shields.io/badge/REST_APIs-black?style=flat-square) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel) |
 | **💾 Databases Distributed Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq) |
 | **🌐 Frontend Web Development** | ![NextJS](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **⚙️ DevOps Cloud Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions) ![CICD](https://img.shields.io/badge/CI_CD-888?style=flat-square) |
+| **⚙️ DevOps Cloud Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions) ![CI CD](https://img.shields.io/badge/CI_CD-888?style=flat-square) |
 | **🛡️ Red Teaming VAPT** | ![PenTest](https://img.shields.io/badge/Penetration_Testing-black?style=flat-square&logo=linux) ![NetSec](https://img.shields.io/badge/Network_Security-333?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark) ![ThreatModeling](https://img.shields.io/badge/Threat_Modeling-C0392B?style=flat-square) ![ThreatAnalysis](https://img.shields.io/badge/Cyber_Threat_Analysis-D32F2F?style=flat-square) |
 | **🕵️ Blue Teaming SecOps** | ![SIEM](https://img.shields.io/badge/SIEM-000?style=flat-square) ![SOC](https://img.shields.io/badge/SOC-000?style=flat-square) ![Forensics](https://img.shields.io/badge/Digital_Forensics-444?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-blue?style=flat-square) ![InfoSec](https://img.shields.io/badge/Information_Security-blue?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **🛠️ Tools Ecosystem** | ![Antigravity](https://img.shields.io/badge/AI_Tools-Antigravity/Cursor-black?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-Jest/Postman-C21325?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) |
@@ -61,16 +61,69 @@ I am a passionate software engineer with a deep fascination for building intelli
 
 ---
 
-## ✨ Developed Under the **KAI** Brand
+## 🌌 THE KAI ECOSYSTEM
+> *Architecting the Future of Autonomous Systems & Secure Infrastructures.*
 
 <div align="center">
 
-| Project | Description | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **AI-Powered VAPT Orchestrator.** Multi-agent system for autonomous scanning. | `LangGraph`, `FastAPI`, `Celery` | 🚀 [Live](https://cmatrix.kaiofficial.xyz) |
-| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Universal Barcode Intelligence.** Enterprise-scanner with private networking. | `NestJS`, `TypeORM`, `Tailscale` | 🚀 [Live](https://barcody.kaiofficial.xyz) |
-| **[Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing)** | **Instant P2P File Sharing.** Direct transfers using WebRTC. | `Next.js 15`, `PeerJS`, `Zustand` | 🚀 [Live](https://flick.kaiofficial.xyz) |
-| **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **Professional Markdown Suite.** High-fidelity generation with Mermaid support. | `Next.js`, `Playright`, `Prisma` | 🚀 [Live](https://markify.kaiofficial.xyz) |
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <a href="https://github.com/nishan-paul-hello/cmatrix-agentic-red-team">
+        <h3><b>🛡️ CMatrix</b></h3>
+      </a>
+      <p><b>AI-Powered VAPT Orchestrator</b><br/><i>Autonomous scanning via multi-agent orchestration.</i></p>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain" /> 
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+      <br/><br/>
+      <a href="https://cmatrix.kaiofficial.xyz">
+        <img src="https://img.shields.io/badge/Live_Application-🚀-purple?style=for-the-badge" height="25" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <a href="https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything">
+        <h3><b>🏷️ Barcody</b></h3>
+      </a>
+      <p><b>Universal Barcode Intelligence</b><br/><i>Enterprise-scanner with private zero-trust networking.</i></p>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/TypeORM-2B3E50?style=flat-square&logo=typeorm" /> 
+      <img src="https://img.shields.io/badge/Tailscale-4A90E2?style=flat-square&logo=tailscale&logoColor=white" />
+      <br/><br/>
+      <a href="https://barcody.kaiofficial.xyz">
+        <img src="https://img.shields.io/badge/Live_Application-🚀-purple?style=for-the-badge" height="25" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <a href="https://github.com/nishan-paul-hello/flick-p2p-file-sharing">
+        <h3><b>⚡ Flick</b></h3>
+      </a>
+      <p><b>Instant P2P File Sharing</b><br/><i>Ultra-fast direct transfers using WebRTC protocols.</i></p>
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/PeerJS-D32F2F?style=flat-square&logo=webrtc" /> 
+      <img src="https://img.shields.io/badge/Zustand-4433ff?style=flat-square" />
+      <br/><br/>
+      <a href="https://flick.kaiofficial.xyz">
+        <img src="https://img.shields.io/badge/Live_Application-🚀-purple?style=for-the-badge" height="25" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <a href="https://github.com/nishan-paul-hello/markify-md-to-pdf-converter">
+        <h3><b>📄 Markify</b></h3>
+      </a>
+      <p><b>Professional Markdown Suite</b><br/><i>High-fidelity PDF generation with Mermaid support.</i></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <br/><br/>
+      <a href="https://markify.kaiofficial.xyz">
+        <img src="https://img.shields.io/badge/Live_Application-🚀-purple?style=for-the-badge" height="25" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -85,12 +138,14 @@ I have a deep-rooted passion for **Data Structures and Algorithms**, with a prov
 </div>
 
 <div align="center">
+
 | Platform | Solved | Handler | Status Badge |
 | :--- | :--- | :--- | :--- |
-| **Codeforces** | **236** | [**batman-TDK**](https://codeforces.com/profile/batman-TDK) | ![Codeforces](https://img.shields.io/badge/Rating-Specialist-444?style=flat-square&logo=codeforces&logoColor=white) |
+| **Codeforces** | **236** | [**batman-TDK**](https://codeforces.com/profile/batman-TDK) | ![Codeforces](https://img.shields.io/badge/Rating-Pupil_1373-4CAF50?style=flat-square&logo=codeforces&logoColor=white) |
 | **LightOJ** | **89** | [**xor.2025**](https://lightoj.com/user/xor.2025) | ![LightOJ](https://img.shields.io/badge/Solved-90-yellow?style=flat-square&logo=lightoj&logoColor=black) |
 | **Virtual Judge** | **81** | [**nishan007**](https://vjudge.net/user/nishan007) | ![VJudge](https://img.shields.io/badge/Solved-81-red?style=flat-square) |
 | **UVA** | **14** | [**nishan-paul**](https://uhunt.onlinejudge.org/id/897154) | ![UVA](https://img.shields.io/badge/Solved-14-blue?style=flat-square) |
+
 </div>
 
 ---
