@@ -61,8 +61,8 @@ I am a passionate software engineer with a deep fascination for building intelli
 
 ---
 
-## 🌌 THE KAI ECOSYSTEM
-> *Architecting the Future of Autonomous Systems & Secure Infrastructures.*
+## 🌌 The [KAI](https://kaiofficial.xyz/) Ecosystem
+> *Building AI-driven systems that think, act, and defend in autonomous cyber operations.*
 
 <div align="center">
 
@@ -131,7 +131,7 @@ I am a passionate software engineer with a deep fascination for building intelli
 
 ## 🧠 Algorithmic Prowess & Competitive Programming
 
-I have a deep-rooted passion for **Data Structures and Algorithms**, with a proven track record of solving complex problems in high-pressure environments.
+> *Strong foundation in Data Structures & Algorithms with a focus on complex problem solving.*
 
 <div align="center">
   <img src="https://img.shields.io/badge/Total_Problems_Solved-420%2B-0070f3?style=for-the-badge&logo=target&logoColor=white" alt="Total Solved" />
