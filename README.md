@@ -1,12 +1,12 @@
 <div align="center">
   <img src="assets/logo-kai.svg" alt="KAI Logo" width="200" />
 
-  # ⚡ Nishan Paul (KAI)
-  ### **AI Systems Architect | Full-Stack Security Engineer | PhD Aspirant (CS '27)**
+  # 🤖 Nishan Paul
+  ### **Full-Stack AI Engineer | DevOps | Cybersecurity | Researcher**
   
   <p align="center">
-    <a href="https://github.com/nishan-paul-2022">
-      <img src="https://img.shields.io/github/followers/nishan-paul-2022?label=Follow&style=for-the-badge&color=0070f3&logo=github" alt="Followers" />
+    <a href="https://github.com/nishan-paul-hello">
+      <img src="https://img.shields.io/github/followers/nishan-paul-hello?label=Follow&style=for-the-badge&color=0070f3&logo=github" alt="Followers" />
     </a>
     <a href="https://www.linkedin.com/in/nishanpaul2022/">
       <img src="https://img.shields.io/badge/LinkedIn-Nishan_Paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,24 +15,24 @@
       <img src="https://img.shields.io/badge/Contact-Email-0070f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://kaiofficial.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-KAI.Official-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+      <img src="https://img.shields.io/badge/OSS_Brand-KAI-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
     </a>
   </p>
 
   ---
 
-  *"Bridging the gap between Agentic AI and Cybersecurity to build autonomous, resilient systems."*
+  *"Building the future of open-source intelligence and resilient digital infrastructure through the **KAI** ecosystem."*
 
 </div>
 
 ## 🚀 About Me
 
-I am a **Full-Stack Developer** and **Security Researcher** (Alumnus of **CUET**) dedicated to architecting high-performance, AI-driven applications. My work focuses on **Multi-Agent Security Orchestration** and **P2P Networking**. I am currently preparing for my **PhD journey (2027-2028)** with a research interest in **Autonomous AI Agents** and **Adversarial Cybersecurity**.
+I am a **Full-Stack AI Engineer** and **Security Researcher** (Alumnus of **CUET**) dedicated to building the **[KAI](https://kaiofficial.xyz/)** open-source software brand. My vision with KAI is to architect high-performance, AI-driven applications that prioritize security and decentralized connectivity.
 
-- 🔭 **Lead Developer**: [CMatrix](https://github.com/nishan-paul-2022/cmatrix-agentic-red-team) — An AI-powered VAPT orchestration platform.
-- 🏆 **Hackathon Winner**: Top 10 at **Vivasoft AI Hackathon 2025**.
-- 🧠 **Competitive Programmer**: Former ICPC Regionalist (308th) with 400+ problems solved across Codeforces & LightOJ.
-- 🎓 **Academic Goal**: PhD in Computer Science (Artificial Intelligence & Cybersecurity).
+- 🛠️ **Founder**: [KAI Official](https://kaiofficial.xyz/) — An open-source software brand for modern intelligent systems.
+- 🔭 **Featured Suite**: [CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team), [Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything), and [Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing).
+- 🏆 **Recognition**: Top 10 at **Vivasoft AI Hackathon 2025**.
+- 🧠 **Competitive Programmer**: Former ICPC Regionalist (308th) with 400+ problems solved.
 
 ---
 
@@ -52,16 +52,33 @@ I am a **Full-Stack Developer** and **Security Researcher** (Alumnus of **CUET**
 
 ---
 
+## ✨ Developed Under the **KAI** Brand
+
+The following high-performance applications are part of the core **KAI** ecosystem:
+
+<div align="center">
+
+| Product | Focus | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **Agentic VAPT Intelligence** | `LangGraph`, `FastAPI` | 🚀 [Live](https://cmatrix.kaiofficial.xyz) |
+| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Unified Barcode Intelligence** | `NestJS`, `Next.js 16` | 🚀 [Live](https://barcody.kaiofficial.xyz) |
+| **[Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing)** | **Instant P2P Transfer** | `WebRTC`, `Next.js 15` | 🚀 [Live](https://flick.kaiofficial.xyz) |
+| **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **Professional Markdown Suite** | `Node.js`, `Playright` | 🚀 [Live](https://markify.kaiofficial.xyz) |
+
+</div>
+
+---
+
 ## 🌟 Featured Engineering Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[CMatrix](https://github.com/nishan-paul-2022/cmatrix-agentic-red-team)** | **AI-Powered VAPT Orchestrator.** Multi-agent system for autonomous security scanning. | `LangGraph`, `FastAPI`, `Next.js`, `Qdrant` | 🟢 Active |
-| **[Barcody](https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything)** | **Universal Barcode Intelligence.** Enterprise-scale scanner with Tailscale private networking. | `Next.js 16`, `NestJS`, `PostgreSQL`, `Tailscale` | 🟢 Active |
-| **[Flick](https://github.com/nishan-paul-2022/flick-p2p-file-sharing)** | **Instant P2P File Sharing.** Direct device-to-device transfers using WebRTC. | `Next.js 15`, `PeerJS`, `WebRTC`, `Framer Motion` | 🚀 [Live](https://flick.kaiofficial.xyz) |
-| **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **MD to PDF Suite.** High-fidelity PDF generation with Mermaid & real-time preview. | `Next.js`, `Playright`, `Zustand`, `PostgreSQL` | 🚀 [Live](https://markify.kaiofficial.xyz) |
+| **[CMatrix](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team)** | **AI-Powered VAPT Orchestrator.** Multi-agent system for autonomous security scanning. | `LangGraph`, `FastAPI`, `Next.js` | 🟢 Active |
+| **[Barcody](https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything)** | **Universal Barcode Intelligence.** Enterprise-scanner with private networking. | `NestJS`, `PostgreSQL` | 🟢 Active |
+| **[Flick](https://github.com/nishan-paul-hello/flick-p2p-file-sharing)** | **Instant P2P File Sharing.** Direct transfers using WebRTC. | `Next.js 15`, `PeerJS` | 🚀 [Live](https://flick.kaiofficial.xyz) |
+| **[Markify](https://github.com/nishan-paul-hello/markify-md-to-pdf-converter)** | **MD to PDF Suite.** High-fidelity generation with Mermaid support. | `Next.js`, `Playright` | 🚀 [Live](https://markify.kaiofficial.xyz) |
 
 </div>
 
@@ -70,37 +87,27 @@ I am a **Full-Stack Developer** and **Security Researcher** (Alumnus of **CUET**
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishan-paul-2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-paul-2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishan-paul-hello&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan-paul-hello&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishan-paul-2022&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishan-paul-hello&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
-
----
-
-## 🎓 Academic Research Hub
-
-Currently documenting my path to a PhD in **Computer Science**. My research focuses on the intersection of **Generative AI** and **Autonomous Cybersecurity Systems**.
-
-- 📜 [PhD Application Materials](https://github.com/nishan-paul-2022/PhD-Application) (Research Statements, GRE/IELTS Prep)
-- 📝 [Research Statement Drafts](https://github.com/nishan-paul-2022/PhD-Application/tree/main/RS)
-- 📚 [Curated CS Research Roadmap](https://github.com/nishan-paul-2022/PhD-Application/tree/main/📚-Test-Preparation)
 
 ---
 
 ## 📫 Let's Connect
 
-- **Portfolio**: [kaiofficial.xyz](https://kaiofficial.xyz)
+- **Brand Portfolio**: [kaiofficial.xyz](https://kaiofficial.xyz)
 - **LinkedIn**: [Nishan Paul](https://www.linkedin.com/in/nishanpaul2022/)
 - **Email**: [nishan.paul.hello@gmail.com](mailto:nishan.paul.hello@gmail.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishan-paul-2022&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nishan-paul-hello&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+  <i>"Building the future, one open source repo at a time."</i>
 </p>
