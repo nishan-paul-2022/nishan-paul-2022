@@ -26,23 +26,23 @@
 
 ---
 
-## 🛠️ Technology & Framework Distribution
+## 🛠️ Technology Distribution
 *A breakdown of architectural choices across all projects*
 
 <div align="center">
 
-| Language Proficiency | Weight (%) | Framework Adoption | Usage (%) |
-| :--- | :---: | :--- | :---: |
-| **Markdown** | ![](https://img.shields.io/badge/--26.53%25-blue?style=flat-square) | **Next.js/Node.js** | ![](https://img.shields.io/badge/--19.23%25-purple?style=flat-square) |
-| **JSON** | ![](https://img.shields.io/badge/--25.94%25-blue?style=flat-square) | **FastAPI/Python** | ![](https://img.shields.io/badge/--15.38%25-purple?style=flat-square) |
-| **CSS** | ![](https://img.shields.io/badge/--15.1%25-blue?style=flat-square) | **** |  |
-| **JavaScript** | ![](https://img.shields.io/badge/--8.14%25-blue?style=flat-square) | **** |  |
-| **Python** | ![](https://img.shields.io/badge/--7.39%25-blue?style=flat-square) | **** |  |
-| **HTML** | ![](https://img.shields.io/badge/--5.65%25-blue?style=flat-square) | **** |  |
-| **TypeScript** | ![](https://img.shields.io/badge/--5.02%25-blue?style=flat-square) | **** |  |
-| **C** | ![](https://img.shields.io/badge/--4.26%25-blue?style=flat-square) | **** |  |
-| **PHP** | ![](https://img.shields.io/badge/--1.3%25-blue?style=flat-square) | **** |  |
-| **C++** | ![](https://img.shields.io/badge/--0.66%25-blue?style=flat-square) | **** |  |
+| Language Proficiency | Weight (%) |
+| :--- | :---: |
+| **Markdown** | ![](https://img.shields.io/badge/--26.53%25-blue?style=flat-square) |
+| **JSON** | ![](https://img.shields.io/badge/--25.94%25-blue?style=flat-square) |
+| **CSS** | ![](https://img.shields.io/badge/--15.1%25-blue?style=flat-square) |
+| **JavaScript** | ![](https://img.shields.io/badge/--8.14%25-blue?style=flat-square) |
+| **Python** | ![](https://img.shields.io/badge/--7.39%25-blue?style=flat-square) |
+| **HTML** | ![](https://img.shields.io/badge/--5.65%25-blue?style=flat-square) |
+| **TypeScript** | ![](https://img.shields.io/badge/--5.02%25-blue?style=flat-square) |
+| **C** | ![](https://img.shields.io/badge/--4.26%25-blue?style=flat-square) |
+| **PHP** | ![](https://img.shields.io/badge/--1.3%25-blue?style=flat-square) |
+| **C++** | ![](https://img.shields.io/badge/--0.66%25-blue?style=flat-square) |
 
 </div>
 
@@ -105,10 +105,5 @@
 ## ⚡ Productivity Constants
 - **System Density:** Average handwritten code per project is **20,806** lines.
 - **Global Footprint:** Total audited codebase represents **540,962** lines of original logic.
-- **Maintainability:** All metrics exclude external libraries, frameworks (node_modules, vendor), and assets.
 
 ---
-
-<div align="center">
-  <i>"This dossier is automatically synced from local Git history to ensure real-time accuracy."</i>
-</div>

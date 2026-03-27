@@ -24,7 +24,6 @@ def collect_stats():
     all_commit_dates = []
     
     lang_loc_map = collections.Counter()
-    framework_repo_counts = collections.Counter()
     weekday_commits = collections.Counter()
     repo_list = []
 
@@ -75,12 +74,6 @@ def collect_stats():
         
         total_loc += repo_loc
         
-        # 4. Framework Detection
-        if os.path.exists(os.path.join(repo_path, "package.json")): framework_repo_counts["Next.js/Node.js"] += 1
-        if os.path.exists(os.path.join(repo_path, "requirements.txt")): framework_repo_counts["FastAPI/Python"] += 1
-        if os.path.exists(os.path.join(repo_path, "tailwind.config.js")): framework_repo_counts["Tailwind CSS"] += 1
-        if os.path.exists(os.path.join(repo_path, "CMakeLists.txt")): framework_repo_counts["C++/Systems"] += 1
-
         repo_list.append({
             "name": repo,
             "commits": int(commit_count),
@@ -103,9 +96,6 @@ def collect_stats():
     # Language Percentages
     lang_percentages = {lang: round((count/total_loc)*100, 2) for lang, count in lang_loc_map.items() if total_loc > 0}
     
-    # Framework Percentages (based on repo adoption)
-    framework_percentages = {fm: round((count/len(repo_list))*100, 2) for fm, count in framework_repo_counts.items()}
-
     # Streak
     streak = 0
     if sorted_unique_dates:
@@ -131,7 +121,6 @@ def collect_stats():
             "avg_loc_per_project": int(total_loc / len(repo_list)) if repo_list else 0
         },
         "languages": dict(sorted(lang_percentages.items(), key=lambda x: x[1], reverse=True)),
-        "frameworks": dict(sorted(framework_percentages.items(), key=lambda x: x[1], reverse=True)),
         "weekly_activity": formatted_weekly,
         "repositories": sorted(repo_list, key=lambda x: x['commits'], reverse=True)
     }
@@ -172,27 +161,20 @@ def generate_markdown(data):
 
 ---
 
-## 🛠️ Technology & Framework Distribution
+## 🛠️ Technology Distribution
 *A breakdown of architectural choices across all projects*
 
 <div align="center">
 
-| Language Proficiency | Weight (%) | Framework Adoption | Usage (%) |
-| :--- | :---: | :--- | :---: |
+| Language Proficiency | Weight (%) |
+| :--- | :---: |
 """
-    # Merge Languages and Frameworks for the table
+    # Merge Languages for the table
     langs = list(data['languages'].items())
-    fms = list(data['frameworks'].items())
-    max_len = max(len(langs), len(fms))
     
-    for i in range(max_len):
-        l_name, l_val = langs[i] if i < len(langs) else ("", "")
-        f_name, f_val = fms[i] if i < len(fms) else ("", "")
-        
-        l_bar = f"![](https://img.shields.io/badge/--{l_val}%25-blue?style=flat-square)" if l_val else ""
-        f_bar = f"![](https://img.shields.io/badge/--{f_val}%25-purple?style=flat-square)" if f_val else ""
-        
-        md += f"| **{l_name}** | {l_bar} | **{f_name}** | {f_bar} |\n"
+    for lang, val in langs:
+        l_bar = f"![](https://img.shields.io/badge/--{val}%25-blue?style=flat-square)"
+        md += f"| **{lang}** | {l_bar} |\n"
 
     md += """
 </div>
@@ -233,13 +215,8 @@ def generate_markdown(data):
 ## ⚡ Productivity Constants
 - **System Density:** Average handwritten code per project is **{data['global']['avg_loc_per_project']:,}** lines.
 - **Global Footprint:** Total audited codebase represents **{data['global']['total_loc']:,}** lines of original logic.
-- **Maintainability:** All metrics exclude external libraries, frameworks (node_modules, vendor), and assets.
 
 ---
-
-<div align="center">
-  <i>"This dossier is automatically synced from local Git history to ensure real-time accuracy."</i>
-</div>
 """
     # Write Markdown
     md_path = os.path.join(PROJECT_DIR, "repo-stats.md")
