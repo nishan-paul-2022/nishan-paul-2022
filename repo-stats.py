@@ -133,6 +133,15 @@ def collect_stats():
     return data
 
 def generate_markdown(data):
+    # Mapping for Card Icons
+    cat_icons = {
+        "ai": "🧠", "agentic": "🤖", "cyber": "🛡️", "red": "⚔️", "cmatrix": "🕵️",
+        "web": "🌐", "site": "🌍", "blog": "✍️", "recrutar": "🤝",
+        "js": "🟨", "python": "🐍", "code": "💻", "problem": "🧩", "algo": "⚡",
+        "p2p": "📡", "barcode": "🏷️", "desktop": "🖥️", "docs": "📚", "app": "📱",
+        "opencv": "👁️", "cryptography": "🔐", "sessional": "🎓", "pdf": "📄"
+    }
+
     md = f"""# 🌌 Global Portfolio Intelligence
 
 ---
@@ -193,18 +202,39 @@ def generate_markdown(data):
 
 ---
 
-## 📁 Repository Deep-Dive
-*Project-by-project activity and complexity (Sorted by Commits)*
+## 📁 Repository Gallery
+*A visual deep-dive into your developmental ecosystem*
 
 <div align="center">
-
-| Repository Name | Commits | Handwritten LOC |
-| :--- | :---: | :---: |
+  <table width="100%" style="border: none; border-collapse: separate; border-spacing: 10px;">
 """
-    for repo in data['repositories']:
-        md += f"| `{repo['name']}` | **{repo['commits']}** | {repo['loc']:,} |\n"
+    # Card Generator (3 per row)
+    repos = data['repositories']
+    for i in range(0, len(repos), 3):
+        md += "    <tr>\n"
+        for j in range(3):
+            if i + j < len(repos):
+                repo = repos[i + j]
+                icon = "📂"
+                for key, emoji in cat_icons.items():
+                    if key in repo['name'].lower():
+                        icon = emoji
+                        break
+                
+                md += f"""      <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 12px; background: rgba(13, 17, 23, 0.4);">
+        <h1 style="margin:0; font-size: 50px;">{icon}</h1>
+        <br />
+        <p style="margin:0; font-size: 14px;"><b>{repo['name']}</b></p>
+        <hr style="width: 30%; border: 0; border-top: 1px solid #30363d; margin: 10px auto;" />
+        <img src='https://img.shields.io/badge/Commits-{repo["commits"]}-blue?style=flat-square' /><br />
+        <img src='https://img.shields.io/badge/LOC-{repo["loc"]:,}-333?style=flat-square' />
+      </td>\n"""
+            else:
+                md += "      <td width='33%'></td>\n"
+        md += "    </tr>\n"
 
     md += f"""
+  </table>
 </div>
 
 ---
