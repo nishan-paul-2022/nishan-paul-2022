@@ -71,7 +71,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <a href="https://kaiofficial.xyz" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/OSS_Brand-KAI-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="KAI" />
         </a>
-        <hr style="width: 20%; border: 0; border-top: 1px solid #30363d; margin: 20px auto;" />
         <h3><i>“KAI builds AI-powered, open-source systems to orchestrate autonomous defense and eliminate threats across the cyber domain.”</i></h3>
       </td>
     </tr>
