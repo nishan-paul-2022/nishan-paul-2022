@@ -1,4 +1,4 @@
-## 🏗️ High-Level Insights
+## 📊 Global Insights
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none; border-spacing: 15px;">
@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/ACTIVE_CODING_STREAK-89_DAYS_🔥-f85149?style=for-the-badge&logo=hotjar&logoColor=white" width="280" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(210, 153, 34, 0.05);">
-        <img src="https://img.shields.io/badge/SYSTEM_DENSITY_(AVG)-20,810_LOC-d29922?style=for-the-badge&logo=files&logoColor=white" width="280" />
+        <img src="https://img.shields.io/badge/SYSTEM_DENSITY-20,810_LOC-d29922?style=for-the-badge&logo=files&logoColor=white" width="280" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(240, 246, 252, 0.05);">
         <img src="https://img.shields.io/badge/AGGREGATED_CODE_VOLUME-541,072_LOC-f0f6fc?style=for-the-badge&logo=github&logoColor=black" width="280" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Technology Mix
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src='https://img.shields.io/badge/Markdown-26.52%25-blue?style=for-the-badge' /> 
@@ -46,21 +46,21 @@
 
 ---
 
-## 📅 Weekly Commit Frequency (Average)
+## 📅 Commit Activity (Avg)
 
 <div align="center">
-  <img src='https://img.shields.io/badge/Monday-2.14_avg-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Tuesday-2.04_avg-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Wednesday-1.95_avg-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Thursday-1.87_avg-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Friday-1.65_avg-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Saturday-1.9_avg-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Sunday-1.81_avg-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Monday-2.14-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Tuesday-2.04-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Wednesday-1.95-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Thursday-1.87-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Friday-1.65-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Saturday-1.9-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Sunday-1.81-333?style=flat-square' /> 
 </div>
 
 ---
 
-## 📁 Repository Gallery
+## 📁 Repos
 
 <div align="center">
   <table width="100%" style="border: none; border-collapse: separate; border-spacing: 5px;">
@@ -208,3 +208,7 @@
     </tr>
   </table>
 </div>
+
+---
+
+> **LOC means "Line of Code" and "System Density" means per repo Line of Code.**
