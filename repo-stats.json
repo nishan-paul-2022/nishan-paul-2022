@@ -1,22 +1,22 @@
 {
     "global": {
         "total_repos": 26,
-        "total_commits": 2891,
-        "total_loc": 540962,
+        "total_commits": 2894,
+        "total_loc": 541340,
         "tenure_years": 4.2,
         "avg_commits_month": 58.0,
         "streak_days": 89,
-        "avg_loc_per_project": 20806
+        "avg_loc_per_project": 20820
     },
     "languages": {
-        "Markdown": 26.53,
-        "JSON": 25.94,
-        "CSS": 15.1,
+        "Markdown": 26.51,
+        "JSON": 25.96,
+        "CSS": 15.09,
         "JavaScript": 8.14,
-        "Python": 7.39,
-        "HTML": 5.65,
+        "Python": 7.43,
+        "HTML": 5.64,
         "TypeScript": 5.02,
-        "C": 4.26,
+        "C": 4.25,
         "PHP": 1.3,
         "C++": 0.66
     },
@@ -25,7 +25,7 @@
         "Tuesday": 2.04,
         "Wednesday": 1.95,
         "Thursday": 1.87,
-        "Friday": 1.62,
+        "Friday": 1.63,
         "Saturday": 1.9,
         "Sunday": 1.81
     },
@@ -86,14 +86,14 @@
             "loc": 37419
         },
         {
+            "name": "nishan-paul-2022",
+            "commits": 49,
+            "loc": 834
+        },
+        {
             "name": "kai-web",
             "commits": 47,
             "loc": 11264
-        },
-        {
-            "name": "nishan-paul-2022",
-            "commits": 46,
-            "loc": 456
         },
         {
             "name": "joblio-job-application-manager",

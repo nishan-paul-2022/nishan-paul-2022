@@ -133,27 +133,31 @@ def collect_stats():
     return data
 
 def generate_markdown(data):
-    md = f"""# 📊 Global Development Ecosystem Board
+    md = f"""# 🌌 Global Portfolio Intelligence
 
 ---
 
-## 📈 High-Level Insights
+## 🏗️ High-Level Insights
 *Aggregated performance metrics from your production workspace*
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px;">
-    <tr>
-      <td width="25%" align="center" style="padding: 25px;">
-        <img src="https://img.shields.io/badge/DEVELOPER_TENURE-{data['global']['tenure_years']}_Years-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white" height="35" />
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
+    <tr style="background-color: rgba(35, 134, 54, 0.05);">
+      <td width="25%" align="center" style="padding: 30px; border-right: 1px solid #30363d;">
+        <p><b>EXPERIENCE</b></p>
+        <h3>{data['global']['tenure_years']} Years</h3>
       </td>
-      <td width="25%" align="center" style="padding: 25px;">
-        <img src="https://img.shields.io/badge/COMMIT_VELOCITY-{data['global']['avg_commits_month']}_MO-blue?style=for-the-badge&logo=speedtest&logoColor=white" height="35" />
+      <td width="25%" align="center" style="padding: 30px; border-right: 1px solid #30363d;">
+        <p><b>VELOCITY</b></p>
+        <h3>{data['global']['avg_commits_month']} / mo</h3>
       </td>
-      <td width="25%" align="center" style="padding: 25px;">
-        <img src="https://img.shields.io/badge/TOTAL_COMMITS-{data['global']['total_commits']}-purple?style=for-the-badge&logo=git&logoColor=white" height="35" />
+      <td width="25%" align="center" style="padding: 30px; border-right: 1px solid #30363d;">
+        <p><b>CONTRIBUTIONS</b></p>
+        <h3>{data['global']['total_commits']} Commits</h3>
       </td>
-      <td width="25%" align="center" style="padding: 25px;">
-        <img src="https://img.shields.io/badge/ACTIVE_STREAK-{data['global']['streak_days']}_DAYS-orange?style=for-the-badge&logo=hotjar&logoColor=white" height="35" />
+      <td width="25%" align="center" style="padding: 30px;">
+        <p><b>ACTIVE STREAK</b></p>
+        <h3>{data['global']['streak_days']} Days 🔥</h3>
       </td>
     </tr>
   </table>
@@ -161,20 +165,15 @@ def generate_markdown(data):
 
 ---
 
-## 🛠️ Technology Distribution
+## 🛠️ Technology Mix
 *A breakdown of architectural choices across all projects*
 
 <div align="center">
-
-| Language Proficiency | Weight (%) |
-| :--- | :---: |
 """
-    # Merge Languages for the table
-    langs = list(data['languages'].items())
-    
-    for lang, val in langs:
-        l_bar = f"![](https://img.shields.io/badge/--{val}%25-blue?style=flat-square)"
-        md += f"| **{lang}** | {l_bar} |\n"
+    # Badges for Languages
+    for lang, val in data['languages'].items():
+        color = "blue" if val > 15 else ("green" if val > 5 else "333")
+        md += f"  <img src='https://img.shields.io/badge/{lang}-{val}%25-{color}?style=for-the-badge' /> \n"
 
     md += """
 </div>
@@ -187,7 +186,7 @@ def generate_markdown(data):
 <div align="center">
 """
     for day, avg in data['weekly_activity'].items():
-        md += f"  <img src='https://img.shields.io/badge/{day}-{avg}_avg-333?style=for-the-badge' /> \n"
+        md += f"  <img src='https://img.shields.io/badge/{day}-{avg}_avg-333?style=flat-square' /> \n"
 
     md += f"""
 </div>
@@ -199,13 +198,11 @@ def generate_markdown(data):
 
 <div align="center">
 
-| Repository Name | Commits | Handwritten LOC | Complexity |
-| :--- | :---: | :---: | :---: |
+| Repository Name | Commits | Handwritten LOC |
+| :--- | :---: | :---: |
 """
     for repo in data['repositories']:
-        complexity = "High" if repo['loc'] > 50000 else ("Medium" if repo['loc'] > 10000 else "Stable")
-        badge_color = "red" if complexity == "High" else ("yellow" if complexity == "Medium" else "success")
-        md += f"| `{repo['name']}` | **{repo['commits']}** | {repo['loc']:,} | ![{complexity}](https://img.shields.io/badge/-{complexity}-{badge_color}?style=flat-square) |\n"
+        md += f"| `{repo['name']}` | **{repo['commits']}** | {repo['loc']:,} |\n"
 
     md += f"""
 </div>
@@ -213,8 +210,12 @@ def generate_markdown(data):
 ---
 
 ## ⚡ Productivity Constants
-- **System Density:** Average handwritten code per project is **{data['global']['avg_loc_per_project']:,}** lines.
-- **Global Footprint:** Total audited codebase represents **{data['global']['total_loc']:,}** lines of original logic.
+*Performance markers derived from global analysis*
+
+<div align="center">
+  <img src='https://img.shields.io/badge/System_Density-{data["global"]["avg_loc_per_project"]:,}_LOC-purple?style=for-the-badge&logo=files&logoColor=white' /> 
+  <img src='https://img.shields.io/badge/Global_Volume-{data["global"]["total_loc"]:,}_LOC-blue?style=for-the-badge&logo=git&logoColor=white' />
+</div>
 
 ---
 """
