@@ -137,7 +137,7 @@ def collect_stats():
     }
 
     # Save JSON
-    json_path = os.path.join(PROJECT_DIR, "repo-stat.json")
+    json_path = os.path.join(PROJECT_DIR, "repo-stats.json")
     with open(json_path, "w") as f:
         json.dump(data, f, indent=4)
     
