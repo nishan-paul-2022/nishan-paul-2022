@@ -4,8 +4,10 @@ import json
 from datetime import datetime, timedelta
 import collections
 
-DOCUMENTS_DIR = "/home/nishan" # Root where repos live
+# CONFIGURATION
+DOCUMENTS_DIR = "/home/nishan/Documents" # Root where repos live
 PROJECT_DIR = "/home/nishan/Documents/nishan-paul-2022"
+GITHUB_USER_BASE_URL = "https://github.com/nishanpaul"
 
 def run_cmd(cmd, cwd=None):
     try:
@@ -15,7 +17,7 @@ def run_cmd(cmd, cwd=None):
 
 def collect_stats():
     # Identify all repos in Documents
-    base_path = "/home/nishan/Documents"
+    base_path = DOCUMENTS_DIR
     repos = [f for f in os.listdir(base_path) if os.path.isdir(os.path.join(base_path, f))]
     
     # Global Aggregators
@@ -56,7 +58,7 @@ def collect_stats():
                     weekday = datetime.strptime(d, "%Y-%m-%d").weekday()
                     weekday_commits[weekday] += 1
         
-        # 3. LOC per Language (Handwritten)
+        # 3. LOC per Language
         files = run_cmd("git ls-files", cwd=repo_path).split('\n')
         repo_loc = 0
         for f in files:
@@ -66,7 +68,6 @@ def collect_stats():
                 try:
                     f_path = os.path.join(repo_path, f)
                     if os.path.isfile(f_path):
-                        # Fast line count for specific extension
                         count = int(run_cmd(f"wc -l < {f_path}"))
                         lang_loc_map[ext_map[ext]] += count
                         repo_loc += count
@@ -74,8 +75,10 @@ def collect_stats():
         
         total_loc += repo_loc
         
+        # Build live Repository Object
         repo_list.append({
             "name": repo,
+            "url": f"{GITHUB_USER_BASE_URL}/{repo}",
             "commits": int(commit_count),
             "loc": repo_loc
         })
@@ -87,7 +90,7 @@ def collect_stats():
     tenure_years = tenure_days / 365.25
     velocity = total_commits / max(tenure_days / 30.44, 1)
 
-    # Weekly Averages (Total commits on Mon / Total weeks in history)
+    # Weekly Averages
     total_weeks = max(tenure_days / 7, 1)
     weekly_avg = {i: weekday_commits[i] / total_weeks for i in range(7)}
     weekday_names = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
@@ -122,7 +125,8 @@ def collect_stats():
         },
         "languages": dict(sorted(lang_percentages.items(), key=lambda x: x[1], reverse=True)),
         "weekly_activity": formatted_weekly,
-        "repositories": sorted(repo_list, key=lambda x: x['commits'], reverse=True)
+        # ALPHABETICAL SORT BY NAME
+        "repositories": sorted(repo_list, key=lambda x: x['name'], reverse=False)
     }
 
     # Save JSON
@@ -134,4 +138,4 @@ def collect_stats():
 
 if __name__ == "__main__":
     stats_data = collect_stats()
-    print("REPO_STATS_JSON_UPDATED")
+    print("REPO_STATS_JSON_UPDATED_LINKED_SORTED")
