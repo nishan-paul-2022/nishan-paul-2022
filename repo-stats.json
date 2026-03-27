@@ -1,18 +1,18 @@
 {
     "global": {
         "total_repos": 26,
-        "total_commits": 2895,
-        "total_loc": 541373,
+        "total_commits": 2896,
+        "total_loc": 541570,
         "tenure_years": 4.2,
         "avg_commits_month": 58.1,
         "streak_days": 89,
-        "avg_loc_per_project": 20822
+        "avg_loc_per_project": 20829
     },
     "languages": {
-        "Markdown": 26.51,
-        "JSON": 25.95,
+        "Markdown": 26.53,
+        "JSON": 25.94,
         "CSS": 15.09,
-        "JavaScript": 8.14,
+        "JavaScript": 8.13,
         "Python": 7.43,
         "HTML": 5.64,
         "TypeScript": 5.02,
@@ -87,8 +87,8 @@
         },
         {
             "name": "nishan-paul-2022",
-            "commits": 50,
-            "loc": 867
+            "commits": 51,
+            "loc": 1064
         },
         {
             "name": "kai-web",

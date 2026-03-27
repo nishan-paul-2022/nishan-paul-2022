@@ -147,7 +147,6 @@ def generate_markdown(data):
 ---
 
 ## 🏗️ High-Level Insights
-*Aggregated performance metrics from your production workspace*
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
@@ -175,7 +174,6 @@ def generate_markdown(data):
 ---
 
 ## 🛠️ Technology Mix
-*A breakdown of architectural choices across all projects*
 
 <div align="center">
 """
@@ -190,7 +188,6 @@ def generate_markdown(data):
 ---
 
 ## 📅 Weekly Commit Frequency (Average)
-*Consistency analysis per day of the week*
 
 <div align="center">
 """
@@ -203,7 +200,6 @@ def generate_markdown(data):
 ---
 
 ## 📁 Repository Gallery
-*A visual deep-dive into your developmental ecosystem*
 
 <div align="center">
   <table width="100%" style="border: none; border-collapse: separate; border-spacing: 10px;">
@@ -240,7 +236,6 @@ def generate_markdown(data):
 ---
 
 ## ⚡ Productivity Constants
-*Performance markers derived from global analysis*
 
 <div align="center">
   <img src='https://img.shields.io/badge/System_Density-{data["global"]["avg_loc_per_project"]:,}_LOC-purple?style=for-the-badge&logo=files&logoColor=white' /> 
