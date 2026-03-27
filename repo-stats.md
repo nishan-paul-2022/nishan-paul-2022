@@ -1,7 +1,3 @@
-# 🌌 Global Portfolio Intelligence
-
----
-
 ## 🏗️ High-Level Insights
 
 <div align="center">
@@ -17,7 +13,7 @@
       </td>
       <td width="25%" align="center" style="padding: 30px; border-right: 1px solid #30363d;">
         <p><b>CONTRIBUTIONS</b></p>
-        <h3>2896 Commits</h3>
+        <h3>2897 Commits</h3>
       </td>
       <td width="25%" align="center" style="padding: 30px;">
         <p><b>ACTIVE STREAK</b></p>
@@ -32,17 +28,16 @@
 ## 🛠️ Technology Mix
 
 <div align="center">
-  <img src='https://img.shields.io/badge/Markdown-26.53%25-blue?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/Markdown-26.52%25-blue?style=for-the-badge' /> 
   <img src='https://img.shields.io/badge/JSON-25.94%25-blue?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/CSS-15.09%25-blue?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/JavaScript-8.13%25-green?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/Python-7.43%25-green?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/HTML-5.64%25-green?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/CSS-15.1%25-blue?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/JavaScript-8.14%25-green?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/Python-7.42%25-green?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/HTML-5.65%25-green?style=for-the-badge' /> 
   <img src='https://img.shields.io/badge/TypeScript-5.02%25-green?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/C-4.25%25-333?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/C-4.26%25-333?style=for-the-badge' /> 
   <img src='https://img.shields.io/badge/PHP-1.3%25-333?style=for-the-badge' /> 
   <img src='https://img.shields.io/badge/C++-0.66%25-333?style=for-the-badge' /> 
-
 </div>
 
 ---
@@ -54,10 +49,9 @@
   <img src='https://img.shields.io/badge/Tuesday-2.04_avg-333?style=flat-square' /> 
   <img src='https://img.shields.io/badge/Wednesday-1.95_avg-333?style=flat-square' /> 
   <img src='https://img.shields.io/badge/Thursday-1.87_avg-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Friday-1.64_avg-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Friday-1.65_avg-333?style=flat-square' /> 
   <img src='https://img.shields.io/badge/Saturday-1.9_avg-333?style=flat-square' /> 
   <img src='https://img.shields.io/badge/Sunday-1.81_avg-333?style=flat-square' /> 
-
 </div>
 
 ---
@@ -68,7 +62,7 @@
   <table width="100%" style="border: none; border-collapse: separate; border-spacing: 10px;">
     <tr>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 12px; background: rgba(13, 17, 23, 0.4);">
-        <h1 style="margin:0; font-size: 50px;">💻</h1>
+        <h1 style="margin:0; font-size: 50px;">🏷️</h1>
         <br />
         <p style="margin:0; font-size: 14px;"><b>barcody-barcode-scanner-for-anything</b></p>
         <hr style="width: 30%; border: 0; border-top: 1px solid #30363d; margin: 10px auto;" />
@@ -94,7 +88,7 @@
     </tr>
     <tr>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 12px; background: rgba(13, 17, 23, 0.4);">
-        <h1 style="margin:0; font-size: 50px;">📂</h1>
+        <h1 style="margin:0; font-size: 50px;">🟨</h1>
         <br />
         <p style="margin:0; font-size: 14px;"><b>javascript</b></p>
         <hr style="width: 30%; border: 0; border-top: 1px solid #30363d; margin: 10px auto;" />
@@ -166,8 +160,8 @@
         <br />
         <p style="margin:0; font-size: 14px;"><b>nishan-paul-2022</b></p>
         <hr style="width: 30%; border: 0; border-top: 1px solid #30363d; margin: 10px auto;" />
-        <img src='https://img.shields.io/badge/Commits-51-blue?style=flat-square' /><br />
-        <img src='https://img.shields.io/badge/LOC-1,064-333?style=flat-square' />
+        <img src='https://img.shields.io/badge/Commits-52-blue?style=flat-square' /><br />
+        <img src='https://img.shields.io/badge/LOC-566-333?style=flat-square' />
       </td>
     </tr>
     <tr>
@@ -291,9 +285,8 @@
         <img src='https://img.shields.io/badge/Commits-5-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-4,823-333?style=flat-square' />
       </td>
-      <td width='33%'></td>
+      <td width="33%"></td>
     </tr>
-
   </table>
 </div>
 
@@ -302,8 +295,8 @@
 ## ⚡ Productivity Constants
 
 <div align="center">
-  <img src='https://img.shields.io/badge/System_Density-20,829_LOC-purple?style=for-the-badge&logo=files&logoColor=white' /> 
-  <img src='https://img.shields.io/badge/Global_Volume-541,570_LOC-blue?style=for-the-badge&logo=git&logoColor=white' />
+  <img src='https://img.shields.io/badge/System_Density-20,810_LOC-purple?style=for-the-badge&logo=files&logoColor=white' /> 
+  <img src='https://img.shields.io/badge/Global_Volume-541,072_LOC-blue?style=for-the-badge&logo=git&logoColor=white' />
 </div>
 
 ---
