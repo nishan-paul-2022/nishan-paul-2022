@@ -71,174 +71,171 @@
 <div align="center">
   <table width="100%" style="border: none; border-collapse: separate; border-spacing: 5px;">
     <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🏷️</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>barcody-barcode-scanner</b></p>
-        <img src='https://img.shields.io/badge/Commits-616-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>barcody-barcode-scanner</b></p>
+        <img src='https://img.shields.io/badge/Commits-616-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-41,590-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🤖</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>cmatrix-agentic-red-team</b></p>
-        <img src='https://img.shields.io/badge/Commits-149-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>cmatrix-agentic-red-team</b></p>
+        <img src='https://img.shields.io/badge/Commits-149-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-35,623-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🌍</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>column-simple-blogging</b></p>
-        <img src='https://img.shields.io/badge/Commits-76-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>column-simple-blogging</b></p>
+        <img src='https://img.shields.io/badge/Commits-76-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-9,635-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">⚔️</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>cough-type-chronic-disease</b></p>
-        <img src='https://img.shields.io/badge/Commits-11-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>cough-type-chronic-disease</b></p>
+        <img src='https://img.shields.io/badge/Commits-11-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-2,339-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+    </tr>
+    <tr>
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🖥️</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>desktop-app-cryptography</b></p>
-        <img src='https://img.shields.io/badge/Commits-8-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>desktop-app-cryptography</b></p>
+        <img src='https://img.shields.io/badge/Commits-8-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-347-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📚</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>docs</b></p>
-        <img src='https://img.shields.io/badge/Commits-126-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>docs</b></p>
+        <img src='https://img.shields.io/badge/Commits-126-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-6,971-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📂</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>dreams-for-tomorrow</b></p>
-        <img src='https://img.shields.io/badge/Commits-6-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>dreams-for-tomorrow</b></p>
+        <img src='https://img.shields.io/badge/Commits-6-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-35,996-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📡</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>flick-p2p-file-sharing</b></p>
-        <img src='https://img.shields.io/badge/Commits-225-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>flick-p2p-file-sharing</b></p>
+        <img src='https://img.shields.io/badge/Commits-225-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-22,073-333?style=flat-square' />
-      </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
-        <h2 style="margin:0;">📂</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>fringecore-interview-prep</b></p>
-        <img src='https://img.shields.io/badge/Commits-77-blue?style=flat-square' />
-        <img src='https://img.shields.io/badge/LOC-96,189-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+        <h2 style="margin:0;">📂</h2>
+        <p style="margin:5px 0; font-size: 12px;"><b>fringecore-interview-prep</b></p>
+        <img src='https://img.shields.io/badge/Commits-77-blue?style=flat-square' /><br />
+        <img src='https://img.shields.io/badge/LOC-96,189-333?style=flat-square' />
+      </td>
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🟨</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>javascript</b></p>
-        <img src='https://img.shields.io/badge/Commits-247-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>javascript</b></p>
+        <img src='https://img.shields.io/badge/Commits-247-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-25,839-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📂</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>job-recruitment</b></p>
-        <img src='https://img.shields.io/badge/Commits-6-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>job-recruitment</b></p>
+        <img src='https://img.shields.io/badge/Commits-6-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-32,838-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📱</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>joblio-application-manager</b></p>
-        <img src='https://img.shields.io/badge/Commits-32-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>joblio-application-manager</b></p>
+        <img src='https://img.shields.io/badge/Commits-32-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-250-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🧠</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>kai-web</b></p>
-        <img src='https://img.shields.io/badge/Commits-47-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>kai-web</b></p>
+        <img src='https://img.shields.io/badge/Commits-47-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-11,264-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📂</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>language-c</b></p>
-        <img src='https://img.shields.io/badge/Commits-103-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>language-c</b></p>
+        <img src='https://img.shields.io/badge/Commits-103-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-22,420-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">👁️</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>learn-opencv</b></p>
-        <img src='https://img.shields.io/badge/Commits-12-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>learn-opencv</b></p>
+        <img src='https://img.shields.io/badge/Commits-12-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-2,647-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📄</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>markify-md-to-pdf</b></p>
-        <img src='https://img.shields.io/badge/Commits-430-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>markify-md-to-pdf</b></p>
+        <img src='https://img.shields.io/badge/Commits-430-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-19,727-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
-        <h2 style="margin:0;">📂</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>nishan-paul-2022</b></p>
-        <img src='https://img.shields.io/badge/Commits-52-blue?style=flat-square' />
+    </tr>
+    <tr>
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+        <h2 style="margin:0;">🏠</h2>
+        <p style="margin:5px 0; font-size: 12px;"><b>nishan-paul-2022</b></p>
+        <img src='https://img.shields.io/badge/Commits-52-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-566-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📂</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>performance-evaluation</b></p>
-        <img src='https://img.shields.io/badge/Commits-14-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>performance-evaluation</b></p>
+        <img src='https://img.shields.io/badge/Commits-14-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-2,713-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📱</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>PhD-Application</b></p>
-        <img src='https://img.shields.io/badge/Commits-12-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>PhD-Application</b></p>
+        <img src='https://img.shields.io/badge/Commits-12-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-208-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">📂</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>PMICS-Batch-05</b></p>
-        <img src='https://img.shields.io/badge/Commits-545-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>PMICS-Batch-05</b></p>
+        <img src='https://img.shields.io/badge/Commits-545-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-105,217-333?style=flat-square' />
-      </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
-        <h2 style="margin:0;">🌐</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>practice-web-dev</b></p>
-        <img src='https://img.shields.io/badge/Commits-8-blue?style=flat-square' />
-        <img src='https://img.shields.io/badge/LOC-17,789-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+        <h2 style="margin:0;">🌐</h2>
+        <p style="margin:5px 0; font-size: 12px;"><b>practice-web-dev</b></p>
+        <img src='https://img.shields.io/badge/Commits-8-blue?style=flat-square' /><br />
+        <img src='https://img.shields.io/badge/LOC-17,789-333?style=flat-square' />
+      </td>
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🧩</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>problem-and-algorithm</b></p>
-        <img src='https://img.shields.io/badge/Commits-7-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>problem-and-algorithm</b></p>
+        <img src='https://img.shields.io/badge/Commits-7-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-24-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🐍</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>python-basic-libraries</b></p>
-        <img src='https://img.shields.io/badge/Commits-5-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>python-basic-libraries</b></p>
+        <img src='https://img.shields.io/badge/Commits-5-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-6,107-333?style=flat-square' />
       </td>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🎓</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>sessional-assignments</b></p>
-        <img src='https://img.shields.io/badge/Commits-5-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>sessional-assignments</b></p>
+        <img src='https://img.shields.io/badge/Commits-5-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-4,823-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="center" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
+      <td width="25%" align="center" style="padding: 10px; border: 1px solid #30363d; border-radius: 8px; background: rgba(13, 17, 23, 0.4);">
         <h2 style="margin:0;">🖥️</h2>
-        <p style="margin:5px 0; font-size: 13px;"><b>sonix-media-player</b></p>
-        <img src='https://img.shields.io/badge/Commits-20-blue?style=flat-square' />
+        <p style="margin:5px 0; font-size: 12px;"><b>sonix-media-player</b></p>
+        <img src='https://img.shields.io/badge/Commits-20-blue?style=flat-square' /><br />
         <img src='https://img.shields.io/badge/LOC-458-333?style=flat-square' />
       </td>
-      <td width="33%"></td>
-      <td width="33%"></td>
+      <td width="25%"></td>
+      <td width="25%"></td>
+      <td width="25%"></td>
     </tr>
   </table>
 </div>
