@@ -1,33 +1,27 @@
 ## 🏗️ High-Level Insights
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
-    <tr style="background-color: rgba(35, 134, 54, 0.05);">
-      <td width="33%" align="center" style="padding: 25px; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d;">
-        <p><b>EXPERIENCE</b></p>
-        <h3>4.2 Years</h3>
+  <table width="100%" style="border-collapse: collapse; border: none; border-spacing: 15px;">
+    <tr>
+      <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(35, 134, 54, 0.05);">
+        <img src="https://img.shields.io/badge/EXPERIENCE_TENURE-4.2_YEARS-3fb950?style=for-the-badge&logo=opsgenie&logoColor=white" width="280" />
       </td>
-      <td width="33%" align="center" style="padding: 25px; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d;">
-        <p><b>VELOCITY</b></p>
-        <h3>58.1 / mo</h3>
+      <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(88, 166, 255, 0.05);">
+        <img src="https://img.shields.io/badge/COMMIT_VELOCITY-58.1_PER_MO-blue?style=for-the-badge&logo=speedtest&logoColor=white" width="280" />
       </td>
-      <td width="33%" align="center" style="padding: 25px; border-bottom: 1px solid #30363d;">
-        <p><b>CONTRIBUTIONS</b></p>
-        <h3>2897 Commits</h3>
+      <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(163, 113, 247, 0.05);">
+        <img src="https://img.shields.io/badge/TOTAL_COMMIT_COUNT-2897_COMMITS-a371f7?style=for-the-badge&logo=git&logoColor=white" width="280" />
       </td>
     </tr>
-    <tr style="background-color: rgba(35, 134, 54, 0.05);">
-       <td width="33%" align="center" style="padding: 25px; border-right: 1px solid #30363d;">
-        <p><b>ACTIVE STREAK</b></p>
-        <h3>89 Days 🔥</h3>
+    <tr>
+      <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(248, 81, 73, 0.05);">
+        <img src="https://img.shields.io/badge/ACTIVE_CODING_STREAK-89_DAYS_🔥-f85149?style=for-the-badge&logo=hotjar&logoColor=white" width="280" />
       </td>
-      <td width="33%" align="center" style="padding: 25px; border-right: 1px solid #30363d;">
-        <p><b>SYSTEM DENSITY</b></p>
-        <h3>20,810 LOC</h3>
+      <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(210, 153, 34, 0.05);">
+        <img src="https://img.shields.io/badge/SYSTEM_DENSITY_(AVG)-20,810_LOC-d29922?style=for-the-badge&logo=files&logoColor=white" width="280" />
       </td>
-      <td width="33%" align="center" style="padding: 25px;">
-        <p><b>GLOBAL VOLUME</b></p>
-        <h3>541,072 LOC</h3>
+      <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(240, 246, 252, 0.05);">
+        <img src="https://img.shields.io/badge/AGGREGATED_CODE_VOLUME-541,072_LOC-f0f6fc?style=for-the-badge&logo=github&logoColor=black" width="280" />
       </td>
     </tr>
   </table>
