@@ -7,7 +7,7 @@ import collections
 # CONFIGURATION
 DOCUMENTS_DIR = "/home/nishan/Documents" # Root where repos live
 PROJECT_DIR = "/home/nishan/Documents/nishan-paul-2022"
-GITHUB_USER_BASE_URL = "https://github.com/nishanpaul"
+GITHUB_USER_BASE_URL = "https://github.com/nishan-paul-2022"
 
 def run_cmd(cmd, cwd=None):
     try:
