@@ -5,7 +5,7 @@
   </a>
 
   # 🦅 Nishan Paul
-  ### **Full-Stack AI Engineer | DevOps | Cybersecurity | Researcher**
+  ### **Full-Stack AI Engineer | DevOps | Cybersecurity | Research**
 
   <p align="center">
     <a href="https://github.com/nishan-paul-hello" target="_blank" rel="noopener noreferrer">
