@@ -9,7 +9,7 @@
 
   <p align="center">
     <a href="https://github.com/nishan-paul-2022" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-nishan--paul--hello-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+      <img src="https://img.shields.io/badge/GitHub-nishan--paul--2022-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
     <a href="https://www.linkedin.com/in/nishanpaul2022" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-nishanpaul2022-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
