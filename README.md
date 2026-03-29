@@ -8,7 +8,7 @@
   ### **Full-Stack AI Engineer | DevOps | Cybersecurity | Research**
 
   <p align="center">
-    <a href="https://github.com/nishan-paul-hello" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/nishan-paul-2022" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GitHub-nishan--paul--hello-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
     <a href="https://www.linkedin.com/in/nishanpaul2022" target="_blank" rel="noopener noreferrer">
@@ -26,7 +26,6 @@
   </p>
 
 </div>
-
 
 ## 🚀 About Me
 
@@ -57,7 +56,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
 
 </div>
 
-
 ---
 
 ## 🛡️ The KAI Brand
@@ -77,7 +75,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   </table>
 </div>
 
-
 <br/>
 
 ## 🌌 The KAI Ecosystem
@@ -88,7 +85,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   <table align="center" style="width: 100%; border-collapse: collapse;">
     <tr>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://github.com/nishan-paul-hello/cmatrix-agentic-red-team">
+        <a href="https://github.com/nishan-paul-2022/cmatrix-agentic-red-team">
           <h3><b>🛡️ CMatrix</b></h3>
         </a>
         <p><b>AI-Powered VAPT Orchestrator</b><br /><i>Autonomous scanning via multi-agent orchestration.</i></p>
@@ -101,7 +98,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         </a>
       </td>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://github.com/nishan-paul-hello/barcody-barcode-scanner-for-anything">
+        <a href="https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything">
           <h3><b>🏷️ Barcody</b></h3>
         </a>
         <p><b>Universal Barcode Intelligence</b><br /><i>Enterprise-scanner with private zero-trust networking.</i></p>
@@ -116,7 +113,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     </tr>
     <tr>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://github.com/nishan-paul-hello/flick-p2p-file-sharing">
+        <a href="https://github.com/nishan-paul-2022/flick-p2p-file-sharing">
           <h3><b>⚡ Flick</b></h3>
         </a>
         <p><b>Instant P2P File Sharing</b><br /><i>Ultra-fast direct transfers using WebRTC protocols.</i></p>
@@ -129,7 +126,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         </a>
       </td>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-        <a href="https://github.com/nishan-paul-hello/markify-md-to-pdf-converter">
+        <a href="https://github.com/nishan-paul-2022/markify-md-to-pdf-converter">
           <h3><b>📄 Markify</b></h3>
         </a>
         <p><b>Professional Markdown Suite</b><br /><i>High-fidelity PDF generation with Mermaid support.</i></p>
@@ -144,7 +141,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     </tr>
   </table>
 </div>
-
 
 ---
 
@@ -168,7 +164,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
 | **UVA Judge** | [`nishan-paul`](https://uhunt.onlinejudge.org/id/897154) | `█░░░░░░░░░` **14** | ![Status](https://img.shields.io/badge/Solved-14-blue?style=flat-square) |
 
 </div>
-
 
 ---
 
@@ -232,7 +227,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     </tr>
   </table>
 </div>
-
 
 ---
 
@@ -506,7 +500,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     </tr>
   </table>
 </div>
-
 
 ---
 
