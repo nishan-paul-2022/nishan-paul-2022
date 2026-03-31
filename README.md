@@ -377,129 +377,136 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
 ## 📁 Repos
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
+  <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🏷️ <a href="https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything" style="font-size: 11px;"><b>barcody-barcode-scanner-for-anything</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🏷️ <a href="https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything"><b>barcody-barcode-scanner-for-anything</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-616-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-41.5k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🤖 <a href="https://github.com/nishan-paul-2022/cmatrix-agentic-red-team" style="font-size: 11px;"><b>cmatrix-agentic-red-team</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🤖 <a href="https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"><b>cmatrix-agentic-red-team</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-149-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-35.6k-333?style=flat-square' />
-      </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🌍 <a href="https://github.com/nishan-paul-2022/column-simple-blogging-site" style="font-size: 11px;"><b>column-simple-blogging-site</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-76-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-9.6k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        ⚔️ <a href="https://github.com/nishan-paul-2022/cough-type-chronic-disease-prediction" style="font-size: 11px;"><b>cough-type-chronic-disease-prediction</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🌍 <a href="https://github.com/nishan-paul-2022/column-simple-blogging-site"><b>column-simple-blogging-site</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-76-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-9.6k-333?style=flat-square' />
+      </td>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        ⚔️ <a href="https://github.com/nishan-paul-2022/cough-type-chronic-disease-prediction"><b>cough-type-chronic-disease-prediction</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-11-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-2.3k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🖥️ <a href="https://github.com/nishan-paul-2022/desktop-app-for-cryptography" style="font-size: 11px;"><b>desktop-app-for-cryptography</b></a> <br /> 
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🖥️ <a href="https://github.com/nishan-paul-2022/desktop-app-for-cryptography"><b>desktop-app-for-cryptography</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-8-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-347-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📚 <a href="https://github.com/nishan-paul-2022/docs" style="font-size: 11px;"><b>docs</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📚 <a href="https://github.com/nishan-paul-2022/docs"><b>docs</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-126-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-6.9k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📂 <a href="https://github.com/nishan-paul-2022/dreams-for-tomorrow" style="font-size: 11px;"><b>dreams-for-tomorrow</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/dreams-for-tomorrow"><b>dreams-for-tomorrow</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-6-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-35.9k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📡 <a href="https://github.com/nishan-paul-2022/flick-p2p-file-sharing" style="font-size: 11px;"><b>flick-p2p-file-sharing</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📡 <a href="https://github.com/nishan-paul-2022/flick-p2p-file-sharing"><b>flick-p2p-file-sharing</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-225-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-22.1k-333?style=flat-square' />
-      </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📂 <a href="https://github.com/nishan-paul-2022/fringecore-coding-interview-preparation" style="font-size: 11px;"><b>fringecore-coding-interview-preparation</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-77-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-96.2k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🟨 <a href="https://github.com/nishan-paul-2022/javascript" style="font-size: 11px;"><b>javascript</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/fringecore-coding-interview-preparation"><b>fringecore-coding-interview-preparation</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-77-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-96.2k-333?style=flat-square' />
+      </td>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🟨 <a href="https://github.com/nishan-paul-2022/javascript"><b>javascript</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-247-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-25.8k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📂 <a href="https://github.com/nishan-paul-2022/job-recruitment" style="font-size: 11px;"><b>job-recruitment</b></a> <br /> 
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/job-recruitment"><b>job-recruitment</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-6-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-32.8k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📱 <a href="https://github.com/nishan-paul-2022/joblio-job-application-manager" style="font-size: 11px;"><b>joblio-job-application-manager</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📱 <a href="https://github.com/nishan-paul-2022/joblio-job-application-manager"><b>joblio-job-application-manager</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-32-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-250-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🧠 <a href="https://github.com/nishan-paul-2022/kai-web" style="font-size: 11px;"><b>kai-web</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🧠 <a href="https://github.com/nishan-paul-2022/kai-web"><b>kai-web</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-47-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-11.2k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📂 <a href="https://github.com/nishan-paul-2022/language-c" style="font-size: 11px;"><b>language-c</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/language-c"><b>language-c</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-103-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-22.4k-333?style=flat-square' />
-      </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        👁️ <a href="https://github.com/nishan-paul-2022/learn-opencv" style="font-size: 11px;"><b>learn-opencv</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-12-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-2.6k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📄 <a href="https://github.com/nishan-paul-2022/markify-md-to-pdf-converter" style="font-size: 11px;"><b>markify-md-to-pdf-converter</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        👁️ <a href="https://github.com/nishan-paul-2022/learn-opencv"><b>learn-opencv</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-12-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-2.6k-333?style=flat-square' />
+      </td>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📄 <a href="https://github.com/nishan-paul-2022/markify-md-to-pdf-converter"><b>markify-md-to-pdf-converter</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-430-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-19.7k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🏠 <a href="https://github.com/nishan-paul-2022/nishan-paul-2022" style="font-size: 11px;"><b>nishan-paul-2022</b></a> <br /> 
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🏠 <a href="https://github.com/nishan-paul-2022/nishan-paul-2022"><b>nishan-paul-2022</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-63-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-829-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📂 <a href="https://github.com/nishan-paul-2022/performance-evaluation-for-myself" style="font-size: 11px;"><b>performance-evaluation-for-myself</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/performance-evaluation-for-myself"><b>performance-evaluation-for-myself</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-14-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-2.7k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📱 <a href="https://github.com/nishan-paul-2022/PhD-Application" style="font-size: 11px;"><b>PhD-Application</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📱 <a href="https://github.com/nishan-paul-2022/PhD-Application"><b>PhD-Application</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-12-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-208-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📂 <a href="https://github.com/nishan-paul-2022/PMICS-July-2025-Batch-05" style="font-size: 11px;"><b>PMICS-July-2025-Batch-05</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/PMICS-July-2025-Batch-05"><b>PMICS-July-2025-Batch-05</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-545-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-105.2k-333?style=flat-square' />
-      </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🌐 <a href="https://github.com/nishan-paul-2022/practice-code-for-web-developing" style="font-size: 11px;"><b>practice-code-for-web-developing</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-8-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-17.7k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🧩 <a href="https://github.com/nishan-paul-2022/problem-and-algorithm" style="font-size: 11px;"><b>problem-and-algorithm</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🌐 <a href="https://github.com/nishan-paul-2022/practice-code-for-web-developing"><b>practice-code-for-web-developing</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-8-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-17.7k-333?style=flat-square' />
+      </td>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🧩 <a href="https://github.com/nishan-paul-2022/problem-and-algorithm"><b>problem-and-algorithm</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-7-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-24-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🐍 <a href="https://github.com/nishan-paul-2022/python-basic-matplot-numpy-panda-scipy-tkinter" style="font-size: 11px;"><b>python-basic-matplot-numpy-panda-scipy-tkinter</b></a> <br /> 
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🐍 <a href="https://github.com/nishan-paul-2022/python-basic-matplot-numpy-panda-scipy-tkinter"><b>python-basic-matplot-numpy-panda-scipy-tkinter</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-5-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-6.1k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        📂 <a href="https://github.com/nishan-paul-2022/recrutar" style="font-size: 11px;"><b>recrutar</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/recrutar"><b>recrutar</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-58-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-37.4k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🎓 <a href="https://github.com/nishan-paul-2022/sessional-related-problem-and-assignment" style="font-size: 11px;"><b>sessional-related-problem-and-assignment</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🎓 <a href="https://github.com/nishan-paul-2022/sessional-related-problem-and-assignment"><b>sessional-related-problem-and-assignment</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-5-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-4.8k-333?style=flat-square' />
       </td>
-      <td width="33%" align="left" style="padding: 5px; border: none;">
-        🖥️ <a href="https://github.com/nishan-paul-2022/sonix-desktop-media-player" style="font-size: 11px;"><b>sonix-desktop-media-player</b></a> <br /> 
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🖥️ <a href="https://github.com/nishan-paul-2022/sonix-desktop-media-player"><b>sonix-desktop-media-player</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-20-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-458-333?style=flat-square' />
       </td>
-      <td width="33%"></td>
     </tr>
   </table>
 </div>
