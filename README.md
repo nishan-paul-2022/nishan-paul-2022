@@ -86,7 +86,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     <tr>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
         <a href="https://github.com/nishan-paul-2022/cmatrix-agentic-red-team">
-          <h3><b>🛡️ CMatrix</b></h3>
+          <b>🛡️ CMatrix</b>
         </a>
         <p><b>AI-Powered VAPT Orchestrator</b><br /><i>Autonomous scanning via multi-agent orchestration.</i></p>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain" alt="LangGraph" />
@@ -99,7 +99,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       </td>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
         <a href="https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything">
-          <h3><b>🏷️ Barcody</b></h3>
+          <b>🏷️ Barcody</b>
         </a>
         <p><b>Universal Barcode Intelligence</b><br /><i>Enterprise-scanner with private zero-trust networking.</i></p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -114,7 +114,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     <tr>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
         <a href="https://github.com/nishan-paul-2022/flick-p2p-file-sharing">
-          <h3><b>⚡ Flick</b></h3>
+          <b>⚡ Flick</b>
         </a>
         <p><b>Instant P2P File Sharing</b><br /><i>Ultra-fast direct transfers using WebRTC protocols.</i></p>
         <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -127,7 +127,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       </td>
       <td width="50%" align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
         <a href="https://github.com/nishan-paul-2022/markify-md-to-pdf-converter">
-          <h3><b>📄 Markify</b></h3>
+          <b>📄 Markify</b>
         </a>
         <p><b>Professional Markdown Suite</b><br /><i>High-fidelity PDF generation with Mermaid support.</i></p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
