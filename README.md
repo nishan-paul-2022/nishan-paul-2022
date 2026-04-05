@@ -177,7 +177,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   <table width="100%" style="border-collapse: collapse;">
     <tr>
       <!-- PRIMARY HIGHLIGHT: VIVASOFT AI HACKATHON -->
-      <td align="center" width="45%" rowspan="2" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+      <td align="center" width="45%" rowspan="3" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
         <br />
         <img src="https://img.icons8.com/bubbles/200/trophy.png" width="120" alt="Trophy" /><br />
         <h3>✨ 2025</h3>
@@ -225,6 +225,16 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <br />
       </td>
     </tr>
+    <tr>
+      <!-- TILE: MAGNET AXIOM | DIGITAL FORENSICS -->
+      <td colspan="2" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
+        <img src="https://img.icons8.com/bubbles/100/shield.png" width="50" alt="Security Shield" /><br />
+        <img src="https://img.shields.io/badge/Magnet_Axiom-Digital_Forensics-E11D48?style=flat-square" alt="Magnet Axiom" /><br />
+        <a href="https://www.linkedin.com/in/nishanpaul2022/overlay/1635501341290/single-media-viewer/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/VIEW-CERTIFICATE-success?style=flat-square" alt="View Photo" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -238,7 +248,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   <table align="center" style="width: 100%; border-collapse: separate; border-spacing: 12px;">
     <tr>
       <!-- PRIMARY HIGHLIGHT: GOOGLE CLOUD AI/ML -->
-      <td width="60%" rowspan="2" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 25px; background: rgba(66, 133, 244, 0.05);">
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 25px; background: rgba(66, 133, 244, 0.05);">
         <br />
         <img src="https://img.icons8.com/fluency/100/google-cloud.png" width="80" alt="Google Cloud Icon" />
         <br /><br />
@@ -252,18 +262,8 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         </a>
         <br /><br />
       </td>
-      <!-- SECONDARY: MAGNET AXIOM -->
-      <td width="40%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
-        <img src="https://img.icons8.com/bubbles/100/shield.png" width="50" alt="Security Shield" /><br />
-        <img src="https://img.shields.io/badge/MAGNET-Digital_Forensics-E11D48?style=flat-square" alt="Magnet Forensics" /><br />
-        <a href="https://www.linkedin.com/in/nishanpaul2022/overlay/1635501341290/single-media-viewer/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/VIEW-CERTIFICATE-success?style=flat-square" alt="View Photo" />
-        </a>
-      </td>
-    </tr>
-    <tr>
       <!-- SECONDARY: DEEPLEARNING.AI -->
-      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: rgba(255, 111, 0, 0.05);">
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: rgba(255, 111, 0, 0.05);">
         <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" width="50" alt="AI Icon" /><br />
         <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-FF6F00?style=plastic&logo=coursera" alt="DeepLearning.AI" /><br />
         <a href="https://www.coursera.org/account/accomplishments/certificate/9N9KP5DNVZPM" target="_blank" rel="noopener noreferrer">
