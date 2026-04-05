@@ -530,10 +530,10 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
 
 <div align="center">
   <i>"If you make yourself more than just a man, if you devote yourself to an ideal, and if they can't stop you, then you become something else entirely..."</i>
-  <br /><br />
+  <br />
   <i>"Which is?"</i>
-  <br /><br />
+  <br />
   <i>"A legend, Mr. Wayne."</i>
-  <br /><br />
+  <br />
   — <b>Batman Begins (2005)</b>
 </div>
