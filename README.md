@@ -323,21 +323,21 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <img src="https://img.shields.io/badge/EXPERIENCE_TENURE-4.2_YEARS-3fb950?style=for-the-badge&logo=opsgenie&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(88, 166, 255, 0.05);">
-        <img src="https://img.shields.io/badge/COMMIT_VELOCITY-58.3_PER_MO-blue?style=for-the-badge&logo=speedtest&logoColor=white" height="35" />
+        <img src="https://img.shields.io/badge/COMMIT_VELOCITY-62.5_PER_MO-blue?style=for-the-badge&logo=speedtest&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(163, 113, 247, 0.05);">
-        <img src="https://img.shields.io/badge/TOTAL_COMMIT_COUNT-2908_COMMITS-a371f7?style=for-the-badge&logo=git&logoColor=white" height="35" />
+        <img src="https://img.shields.io/badge/TOTAL_COMMIT_COUNT-3136_COMMITS-a371f7?style=for-the-badge&logo=git&logoColor=white" height="35" />
       </td>
     </tr>
     <tr>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(248, 81, 73, 0.05);">
-        <img src="https://img.shields.io/badge/ACTIVE_CODING_STREAK-89_DAYS_🔥-f85149?style=for-the-badge&logo=hotjar&logoColor=white" height="35" />
+        <img src="https://img.shields.io/badge/ACTIVE_CODING_STREAK-98_DAYS_🔥-f85149?style=for-the-badge&logo=hotjar&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(210, 153, 34, 0.05);">
-        <img src="https://img.shields.io/badge/SYSTEM_DENSITY-20,820_LOC-d29922?style=for-the-badge&logo=files&logoColor=white" height="35" />
+        <img src="https://img.shields.io/badge/SYSTEM_DENSITY-20,714_LOC-d29922?style=for-the-badge&logo=files&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(240, 246, 252, 0.05);">
-        <img src="https://img.shields.io/badge/AGGREGATED_CODE_VOLUME-541,335_LOC-f0f6fc?style=for-the-badge&logo=github&logoColor=black" height="35" />
+        <img src="https://img.shields.io/badge/AGGREGATED_CODE_VOLUME-559,285_LOC-f0f6fc?style=for-the-badge&logo=github&logoColor=black" height="35" />
       </td>
     </tr>
   </table>
@@ -348,16 +348,16 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src='https://img.shields.io/badge/Markdown-26.52%25-blue?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/JSON-25.94%25-blue?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/CSS-15.1%25-blue?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/JavaScript-8.14%25-green?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/Python-7.42%25-green?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/HTML-5.65%25-green?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/TypeScript-5.02%25-green?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/C-4.26%25-333?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/PHP-1.3%25-333?style=for-the-badge' /> 
-  <img src='https://img.shields.io/badge/C++-0.66%25-333?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/JSON-27.83%25-blue?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/Markdown-26.08%25-blue?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/CSS-14.62%25-blue?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/JavaScript-7.89%25-green?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/Python-7.17%25-green?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/HTML-5.46%25-green?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/TypeScript-4.92%25-green?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/C-4.12%25-333?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/PHP-1.26%25-333?style=for-the-badge' /> 
+  <img src='https://img.shields.io/badge/C++-0.64%25-333?style=for-the-badge' /> 
 </div>
 
 ---
@@ -365,13 +365,13 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
 ## 📅 Commit Activity (Avg)
 
 <div align="center">
-  <img src='https://img.shields.io/badge/Monday-2.14-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Tuesday-2.04-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Wednesday-1.95-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Thursday-1.87-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Friday-1.65-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Saturday-1.9-333?style=flat-square' /> 
-  <img src='https://img.shields.io/badge/Sunday-1.81-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Monday-2.28-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Tuesday-2.11-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Wednesday-2.18-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Thursday-2.0-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Friday-1.74-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Saturday-1.97-333?style=flat-square' /> 
+  <img src='https://img.shields.io/badge/Sunday-2.1-333?style=flat-square' /> 
 </div>
 
 ---
@@ -383,131 +383,140 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🏷️ <a href="https://github.com/nishan-paul-2022/barcody-barcode-scanner-for-anything"><b>barcody-barcode-scanner-for-anything</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-616-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-41.5k-333?style=flat-square' />
+        <img src='https://img.shields.io/badge/Commit-624-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-41.4k-333?style=flat-square' />
       </td>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🤖 <a href="https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"><b>cmatrix-agentic-red-team</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-149-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-35.6k-333?style=flat-square' />
+        <img src='https://img.shields.io/badge/Commit-163-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-35.5k-333?style=flat-square' />
       </td>
     </tr>
     <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🛡️ <a href="https://github.com/nishan-paul-2022/cmatrix-lab-a-vulnerable-web-app"><b>cmatrix-lab-a-vulnerable-web-app</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-100-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-17.6k-333?style=flat-square' />
+      </td>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🌍 <a href="https://github.com/nishan-paul-2022/column-simple-blogging-site"><b>column-simple-blogging-site</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-76-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-9.6k-333?style=flat-square' />
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         ⚔️ <a href="https://github.com/nishan-paul-2022/cough-type-chronic-disease-prediction"><b>cough-type-chronic-disease-prediction</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-11-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-2.3k-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🖥️ <a href="https://github.com/nishan-paul-2022/desktop-app-for-cryptography"><b>desktop-app-for-cryptography</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-8-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-347-333?style=flat-square' />
       </td>
-      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
-        📚 <a href="https://github.com/nishan-paul-2022/docs"><b>docs</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-126-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-6.9k-333?style=flat-square' />
-      </td>
     </tr>
     <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📚 <a href="https://github.com/nishan-paul-2022/docs"><b>docs</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-176-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-7.6k-333?style=flat-square' />
+      </td>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         📂 <a href="https://github.com/nishan-paul-2022/dreams-for-tomorrow"><b>dreams-for-tomorrow</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-6-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-35.9k-333?style=flat-square' />
       </td>
-      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
-        📡 <a href="https://github.com/nishan-paul-2022/flick-p2p-file-sharing"><b>flick-p2p-file-sharing</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-225-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-22.1k-333?style=flat-square' />
-      </td>
     </tr>
     <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📡 <a href="https://github.com/nishan-paul-2022/flick-p2p-file-sharing"><b>flick-p2p-file-sharing</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-226-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-22k-333?style=flat-square' />
+      </td>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         📂 <a href="https://github.com/nishan-paul-2022/fringecore-coding-interview-preparation"><b>fringecore-coding-interview-preparation</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-77-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-96.2k-333?style=flat-square' />
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🟨 <a href="https://github.com/nishan-paul-2022/javascript"><b>javascript</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-247-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-25.8k-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         📂 <a href="https://github.com/nishan-paul-2022/job-recruitment"><b>job-recruitment</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-6-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-32.8k-333?style=flat-square' />
       </td>
-      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
-        📱 <a href="https://github.com/nishan-paul-2022/joblio-job-application-manager"><b>joblio-job-application-manager</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-32-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-250-333?style=flat-square' />
-      </td>
     </tr>
     <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
-        🧠 <a href="https://github.com/nishan-paul-2022/kai-web"><b>kai-web</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-47-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-11.2k-333?style=flat-square' />
+        📱 <a href="https://github.com/nishan-paul-2022/joblio-job-application-manager"><b>joblio-job-application-manager</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-37-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-168-333?style=flat-square' />
       </td>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🧠 <a href="https://github.com/nishan-paul-2022/kai-web"><b>kai-web</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-50-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-11.2k-333?style=flat-square' />
+      </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         📂 <a href="https://github.com/nishan-paul-2022/language-c"><b>language-c</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-103-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-22.4k-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         👁️ <a href="https://github.com/nishan-paul-2022/learn-opencv"><b>learn-opencv</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-12-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-2.6k-333?style=flat-square' />
       </td>
-      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
-        📄 <a href="https://github.com/nishan-paul-2022/markify-md-to-pdf-converter"><b>markify-md-to-pdf-converter</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-430-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-19.7k-333?style=flat-square' />
-      </td>
     </tr>
     <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
-        🏠 <a href="https://github.com/nishan-paul-2022/nishan-paul-2022"><b>nishan-paul-2022</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-63-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-829-333?style=flat-square' />
+        📄 <a href="https://github.com/nishan-paul-2022/markify-md-to-pdf-converter"><b>markify-md-to-pdf-converter</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-431-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-19.7k-333?style=flat-square' />
       </td>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        🏠 <a href="https://github.com/nishan-paul-2022/nishan-paul-2022"><b>nishan-paul-2022</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-86-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-861-333?style=flat-square' />
+      </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         📂 <a href="https://github.com/nishan-paul-2022/performance-evaluation-for-myself"><b>performance-evaluation-for-myself</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-14-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-2.7k-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         📱 <a href="https://github.com/nishan-paul-2022/PhD-Application"><b>PhD-Application</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-12-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-208-333?style=flat-square' />
       </td>
-      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
-        📂 <a href="https://github.com/nishan-paul-2022/PMICS-July-2025-Batch-05"><b>PMICS-July-2025-Batch-05</b></a> <br /> 
-        <img src='https://img.shields.io/badge/Commit-545-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-105.2k-333?style=flat-square' />
-      </td>
     </tr>
     <tr>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        📂 <a href="https://github.com/nishan-paul-2022/PMICS-July-2025-Batch-05"><b>PMICS-July-2025-Batch-05</b></a> <br /> 
+        <img src='https://img.shields.io/badge/Commit-568-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-105.2k-333?style=flat-square' />
+      </td>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🌐 <a href="https://github.com/nishan-paul-2022/practice-code-for-web-developing"><b>practice-code-for-web-developing</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-8-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-17.7k-333?style=flat-square' />
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🧩 <a href="https://github.com/nishan-paul-2022/problem-and-algorithm"><b>problem-and-algorithm</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-7-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-24-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🐍 <a href="https://github.com/nishan-paul-2022/python-basic-matplot-numpy-panda-scipy-tkinter"><b>python-basic-matplot-numpy-panda-scipy-tkinter</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-5-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-6.1k-333?style=flat-square' />
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         📂 <a href="https://github.com/nishan-paul-2022/recrutar"><b>recrutar</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-58-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-37.4k-333?style=flat-square' />
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🎓 <a href="https://github.com/nishan-paul-2022/sessional-related-problem-and-assignment"><b>sessional-related-problem-and-assignment</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-5-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-4.8k-333?style=flat-square' />
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
         🖥️ <a href="https://github.com/nishan-paul-2022/sonix-desktop-media-player"><b>sonix-desktop-media-player</b></a> <br /> 
         <img src='https://img.shields.io/badge/Commit-20-blue?style=flat-square' /> <img src='https://img.shields.io/badge/LOC-458-333?style=flat-square' />
+      </td>
+      <td width="50%" align="center" style="padding: 10px; border: 1px solid #30363d;">
+        <!-- EMPTY CELL TO MAINTAIN TABLE SYMMETRY -->
       </td>
     </tr>
   </table>
