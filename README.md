@@ -181,7 +181,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <br />
         <img src="https://img.icons8.com/bubbles/200/trophy.png" width="120" alt="Trophy" /><br />
         <h3>✨ 2025</h3>
-        <a href="https://ibb.co.com/1Y2XpGpC" target="_blank" rel="noopener noreferrer"><b>Vivasoft AI Hackathon</b></a><br />
+        <a href="assets/2025-VIVASOFT-AI-HACKATHON.pdf" target="_blank" rel="noopener noreferrer"><b>Vivasoft AI Hackathon</b></a><br />
         <i>Architected AI solutions with Team KAI</i><br /><br />
         <img src="https://img.shields.io/badge/RANKING-TOP_10-gold?style=for-the-badge&logo=target" height="30" alt="Top 10" />
         <br /><br />
@@ -189,8 +189,8 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       <!-- SECONDARY TILE: CAREER CLUB -->
       <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
         <br />
-        <b>🥈 2018</b><br />
-        CUET Career Club<br />
+        <b>🥈 2019</b><br />
+        <a href="assets/2019-CUET-CAREER-CLUB.pdf" target="_blank" rel="noopener noreferrer">CUET Career Club</a><br />
         <i>Competitive Programming</i><br /><br />
         <img src="https://img.shields.io/badge/RANK-02-silver?style=flat-square" alt="Rank 2" /><br />
         <br />
@@ -199,7 +199,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
         <br />
         <b>🥉 2018</b><br />
-        <a href="https://www.linkedin.com/feed/update/urn:li:activity:6893481092637192192/" target="_blank" rel="noopener noreferrer">USTC IUPC</a><br />
+        <a href="assets/2018-TECHTRONICS-IUPC.pdf" target="_blank" rel="noopener noreferrer">USTC IUPC</a><br />
         <i>Competitive Programming</i><br /><br />
         <img src="https://img.shields.io/badge/TOP-50-CD7F32?style=flat-square" alt="Top 50" /><br />
         <br />
@@ -210,7 +210,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
         <br />
         <b>🎯 2017</b><br />
-        <a href="https://www.linkedin.com/in/nishanpaul2022/details/featured/1635501338525/single-media-viewer/" target="_blank" rel="noopener noreferrer">CUET CSE Fest</a><br />
+        <a href="assets/2017-CUET-CSE-FEST.pdf" target="_blank" rel="noopener noreferrer">CUET CSE Fest</a><br />
         <i>Competitive Programming</i><br /><br />
         <img src="https://img.shields.io/badge/RANK-20-blue?style=flat-square" alt="Rank 20" /><br />
         <br />
@@ -219,7 +219,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
         <br />
         <b>📜 2017</b><br />
-        <a href="https://www.linkedin.com/feed/update/urn:li:activity:6893482608584466432/" target="_blank" rel="noopener noreferrer">ICPC Regional Site</a><br />
+        <a href="assets/2017-ICPC-DHAKA-REGIONAL-SITE-ONLINE-PRELIMINARY-CONTEST.pdf" target="_blank" rel="noopener noreferrer">ICPC Regional Site</a><br />
         <i>Competitive Programming</i><br /><br />
         <img src="https://img.shields.io/badge/RANK-308-black?style=flat-square" alt="Rank 308" /><br />
         <br />
@@ -230,7 +230,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       <td colspan="2" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
         <img src="https://img.icons8.com/bubbles/100/shield.png" width="50" alt="Security Shield" /><br />
         <img src="https://img.shields.io/badge/Magnet_Axiom-Digital_Forensics-E11D48?style=flat-square" alt="Magnet Axiom" /><br />
-        <a href="https://www.linkedin.com/in/nishanpaul2022/overlay/1635501341290/single-media-viewer/" target="_blank" rel="noopener noreferrer">
+        <a href="assets/2019-FOUNDATIONS-IN-DIGITAL-FORENSIC-WITH-MAGNET-AXIOM.pdf" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VIEW-CERTIFICATE-success?style=flat-square" alt="View Photo" />
         </a>
       </td>
@@ -257,7 +257,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <h3><b>Managing Machine Learning Projects</b></h3>
         <p><i>Orchestrating enterprise-scale AI lifecycles and autonomous ML orchestration systems.</i></p>
         <br />
-        <a href="https://www.coursera.org/account/accomplishments/certificate/CP5JZTG7LK43" target="_blank" rel="noopener noreferrer">
+        <a href="assets/2020-COURSERA-MANAGING MACHINE LEARNING PROJECTS WITH GOOGLE CLOUD.pdf" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-blue?style=for-the-badge&logo=googlecloud" alt="Verify Credential" />
         </a>
         <br /><br />
@@ -266,31 +266,27 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: rgba(255, 111, 0, 0.05);">
         <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" width="50" alt="AI Icon" /><br />
         <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-FF6F00?style=plastic&logo=coursera" alt="DeepLearning.AI" /><br />
-        <a href="https://www.coursera.org/account/accomplishments/certificate/9N9KP5DNVZPM" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/STATUS-VERIFIED-orange?style=flat-square" alt="Status Verified" />
+        <a href="assets/2020-COURSERA-AI-FOR-EVERYONE.pdf" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-orange?style=flat-square" alt="Verify Credential" />
         </a>
       </td>
     </tr>
     <tr>
-      <!-- TERTIARY WIDE: UNIVERSITY OF MICHIGAN PYTHON TRACK -->
-      <td colspan="2" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 25px; background: rgba(255, 203, 5, 0.05);">
-        <img src="https://img.shields.io/badge/University_of_Michigan-Python_Specialization-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="UofM" /><br /><br />
-        <table align="center" width="90%" style="border: none;">
-          <tr>
-            <td align="center" style="border: none;">
-              <p><b>Data Structures</b></p>
-              <a href="https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ" target="_blank" rel="noopener noreferrer">
-                <img src="https://img.shields.io/badge/VALIDATE-↗-yellow?style=flat-square" alt="Validate" />
-              </a>
-            </td>
-            <td align="center" style="border: none; border-left: 1px solid #30363d;">
-              <p><b>Core Python</b></p>
-              <a href="https://www.coursera.org/account/accomplishments/certificate/7QY24546CEVY" target="_blank" rel="noopener noreferrer">
-                <img src="https://img.shields.io/badge/VALIDATE-↗-yellow?style=flat-square" alt="Validate" />
-              </a>
-            </td>
-          </tr>
-        </table>
+      <!-- SECONDARY: CORE PYTHON -->
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 25px; background: rgba(255, 203, 5, 0.05);">
+        <img src="https://img.shields.io/badge/Michigan-Core_Python-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Core Python" /><br /><br />
+        <p><b>Core Python</b></p>
+        <a href="assets/2020-COURSERA-GETTING STARTED WITH PYTHON.pdf" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=flat-square" alt="Verify Credential" />
+        </a>
+      </td>
+      <!-- SECONDARY: DATA STRUCTURES -->
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 25px; background: rgba(255, 203, 5, 0.05);">
+        <img src="https://img.shields.io/badge/Michigan-Data_Structures-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Data Structures" /><br /><br />
+        <p><b>Data Structures</b></p>
+        <a href="assets/2020-COURSERA-PYTHON DATA STRUCTURES.pdf" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=flat-square" alt="Verify Credential" />
+        </a>
       </td>
     </tr>
   </table>
