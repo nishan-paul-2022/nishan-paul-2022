@@ -252,7 +252,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
       <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 12px; background: rgba(66, 133, 244, 0.05); line-height: 1.3;">
         <img src="https://img.icons8.com/fluency/100/google-cloud.png" width="70" alt="Google Cloud Icon" />
         <br />
-        <img src="https://img.shields.io/badge/Google_Cloud-Machine_Learning-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" />
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Managing Machine Learning Projects</b></h3>
         <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Orchestrating enterprise-scale AI lifecycles and autonomous ML orchestration systems.</i></p>
         <a href="assets/2020-COURSERA-MANAGING MACHINE LEARNING PROJECTS WITH GOOGLE CLOUD.pdf" target="_blank" rel="noopener noreferrer">
@@ -260,31 +260,38 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         </a>
       </td>
       <!-- SECONDARY: DEEPLEARNING.AI -->
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background: rgba(255, 111, 0, 0.05); line-height: 1.3;">
-        <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" width="40" alt="AI Icon" />
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 12px; background: rgba(255, 111, 0, 0.05); line-height: 1.3;">
+        <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" width="70" alt="AI Icon" />
         <br />
-        <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-FF6F00?style=plastic&logo=coursera" alt="DeepLearning.AI" />
-        <br />
+        <img src="https://img.shields.io/badge/Deeplearning.AI-FF6F00?style=plastic&logo=coursera" alt="Deeplearning.AI" />
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>AI For Everyone</b></h3>
+        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Understanding AI's potential and limitations while demystifying common AI concepts for real-world impact.</i></p>
         <a href="assets/2020-COURSERA-AI-FOR-EVERYONE.pdf" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-orange?style=flat-square" alt="Verify Credential" />
+          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-orange?style=for-the-badge&logo=coursera" height="28" alt="Verify Credential" />
         </a>
       </td>
     </tr>
     <tr>
       <!-- SECONDARY: CORE PYTHON -->
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background: rgba(255, 203, 5, 0.05); line-height: 1.3;">
-        <img src="https://img.shields.io/badge/Michigan-Core_Python-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Core Python" />
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">Core Python</h3>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 12px; background: rgba(255, 203, 5, 0.05); line-height: 1.3;">
+        <img src="https://img.icons8.com/fluency/100/python.png" width="70" alt="Core Python Icon" />
+        <br />
+        <img src="https://img.shields.io/badge/Michigan-00274C?style=plastic&logo=universityofmichigan&logoColor=white" alt="Michigan" />
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Core Python</b></h3>
+        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Mastering the fundamentals of Python programming, including syntax, data structures, and functional programming.</i></p>
         <a href="assets/2020-COURSERA-GETTING STARTED WITH PYTHON.pdf" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=flat-square" alt="Verify Credential" />
+          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=for-the-badge&logo=coursera" height="28" alt="Verify Credential" />
         </a>
       </td>
       <!-- SECONDARY: DATA STRUCTURES -->
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background: rgba(255, 203, 5, 0.05); line-height: 1.3;">
-        <img src="https://img.shields.io/badge/Michigan-Data_Structures-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Data Structures" />
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">Data Structures</h3>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 12px; background: rgba(255, 203, 5, 0.05); line-height: 1.3;">
+        <img src="https://img.icons8.com/fluency/100/data-configuration.png" width="70" alt="Data Structures Icon" />
+        <br />
+        <img src="https://img.shields.io/badge/Michigan-00274C?style=plastic&logo=universityofmichigan&logoColor=white" alt="Michigan" />
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Data Structures</b></h3>
+        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Mastering data organization and manipulation concepts like lists, dictionaries, and tuples to optimize computational efficiency.</i></p>
         <a href="assets/2020-COURSERA-PYTHON DATA STRUCTURES.pdf" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=flat-square" alt="Verify Credential" />
+          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=for-the-badge&logo=coursera" height="28" alt="Verify Credential" />
         </a>
       </td>
     </tr>
