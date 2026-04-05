@@ -289,7 +289,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <br />
         <img src="https://img.shields.io/badge/Michigan-00274C?style=plastic&logo=universityofmichigan&logoColor=white" alt="Michigan" />
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Data Structures</b></h3>
-        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Mastering data organization and manipulation concepts like lists, dictionaries, and tuples to optimize computational efficiency.</i></p>
+        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Mastering data organization and manipulation concepts like lists, dictionaries, and tuples to optimize computation.</i></p>
         <a href="https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=for-the-badge&logo=coursera" height="28" alt="Verify Credential" />
         </a>
