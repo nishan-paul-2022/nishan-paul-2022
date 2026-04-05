@@ -255,7 +255,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" />
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Managing Machine Learning Projects</b></h3>
         <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Orchestrating enterprise-scale AI lifecycles and autonomous ML orchestration systems.</i></p>
-        <a href="assets/2020-COURSERA-MANAGING MACHINE LEARNING PROJECTS WITH GOOGLE CLOUD.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.coursera.org/account/accomplishments/certificate/CP5JZTG7LK43" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-blue?style=for-the-badge&logo=googlecloud" height="28" alt="Verify Credential" />
         </a>
       </td>
@@ -266,7 +266,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <img src="https://img.shields.io/badge/Deeplearning.AI-FF6F00?style=plastic&logo=coursera" alt="Deeplearning.AI" />
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>AI For Everyone</b></h3>
         <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Understanding AI's potential and limitations while demystifying common AI concepts for real-world impact.</i></p>
-        <a href="assets/2020-COURSERA-AI-FOR-EVERYONE.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.coursera.org/account/accomplishments/certificate/9N9KP5DNVZPM" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-orange?style=for-the-badge&logo=coursera" height="28" alt="Verify Credential" />
         </a>
       </td>
@@ -279,7 +279,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <img src="https://img.shields.io/badge/Michigan-00274C?style=plastic&logo=universityofmichigan&logoColor=white" alt="Michigan" />
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Core Python</b></h3>
         <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Mastering the fundamentals of Python programming, including syntax, data structures, and functional programming.</i></p>
-        <a href="assets/2020-COURSERA-GETTING STARTED WITH PYTHON.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.coursera.org/account/accomplishments/certificate/7QY24546CEVY" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=for-the-badge&logo=coursera" height="28" alt="Verify Credential" />
         </a>
       </td>
@@ -290,7 +290,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         <img src="https://img.shields.io/badge/Michigan-00274C?style=plastic&logo=universityofmichigan&logoColor=white" alt="Michigan" />
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Data Structures</b></h3>
         <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Mastering data organization and manipulation concepts like lists, dictionaries, and tuples to optimize computational efficiency.</i></p>
-        <a href="assets/2020-COURSERA-PYTHON DATA STRUCTURES.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.coursera.org/account/accomplishments/certificate/46J7HW929LBJ" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=for-the-badge&logo=coursera" height="28" alt="Verify Credential" />
         </a>
       </td>
