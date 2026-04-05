@@ -177,62 +177,63 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   <table width="100%" style="border-collapse: collapse;">
     <tr>
       <!-- PRIMARY HIGHLIGHT: VIVASOFT AI HACKATHON -->
-      <td align="center" width="45%" rowspan="3" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
-        <br />
-        <img src="https://img.icons8.com/bubbles/200/trophy.png" width="120" alt="Trophy" /><br />
-        <h3>✨ 2025</h3>
-        <a href="assets/2025-VIVASOFT-AI-HACKATHON.pdf" target="_blank" rel="noopener noreferrer"><b>Vivasoft AI Hackathon</b></a><br />
-        <i>Architected AI solutions with Team KAI</i><br /><br />
-        <img src="https://img.shields.io/badge/RANKING-TOP_10-gold?style=for-the-badge&logo=target" height="30" alt="Top 10" />
-        <br /><br />
+      <td align="center" width="45%" rowspan="3" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
+        <img src="https://img.icons8.com/bubbles/200/trophy.png" width="100" alt="Trophy" />
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">✨ 2025</h3>
+        <a href="assets/2025-VIVASOFT-AI-HACKATHON.pdf" target="_blank" rel="noopener noreferrer">
+          <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Vivasoft AI Hackathon</b></h3>
+        </a>
+        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Architected AI solutions with Team KAI</i></p>
+        <img src="https://img.shields.io/badge/RANKING-TOP_10-gold?style=for-the-badge&logo=target" height="28" alt="Top 10" />
       </td>
       <!-- SECONDARY TILE: CAREER CLUB -->
-      <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
-        <br />
-        <b>🥈 2019</b><br />
-        <a href="assets/2019-CUET-CAREER-CLUB.pdf" target="_blank" rel="noopener noreferrer">CUET Career Club</a><br />
-        <i>Competitive Programming</i><br /><br />
-        <img src="https://img.shields.io/badge/RANK-02-silver?style=flat-square" alt="Rank 2" /><br />
-        <br />
+      <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
+        <p style="margin: 0; margin-bottom: 5px;"><b>🥈 2019</b></p>
+        <a href="assets/2019-CUET-CAREER-CLUB.pdf" target="_blank" rel="noopener noreferrer">
+          <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">CUET Career Club</h3>
+        </a>
+        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
+        <img src="https://img.shields.io/badge/RANK-02-silver?style=flat-square" alt="Rank 2" />
       </td>
       <!-- SECONDARY TILE: USTC IUPC -->
-      <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
-        <br />
-        <b>🥉 2018</b><br />
-        <a href="assets/2018-TECHTRONICS-IUPC.pdf" target="_blank" rel="noopener noreferrer">USTC IUPC</a><br />
-        <i>Competitive Programming</i><br /><br />
-        <img src="https://img.shields.io/badge/TOP-50-CD7F32?style=flat-square" alt="Top 50" /><br />
-        <br />
+      <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
+        <p style="margin: 0; margin-bottom: 5px;"><b>🥉 2018</b></p>
+        <a href="assets/2018-TECHTRONICS-IUPC.pdf" target="_blank" rel="noopener noreferrer">
+          <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">USTC IUPC</h3>
+        </a>
+        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
+        <img src="https://img.shields.io/badge/TOP-50-CD7F32?style=flat-square" alt="Top 50" />
       </td>
     </tr>
     <tr>
       <!-- SECONDARY TILE: CUET CSE FEST -->
-      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
-        <br />
-        <b>🎯 2017</b><br />
-        <a href="assets/2017-CUET-CSE-FEST.pdf" target="_blank" rel="noopener noreferrer">CUET CSE Fest</a><br />
-        <i>Competitive Programming</i><br /><br />
-        <img src="https://img.shields.io/badge/RANK-20-blue?style=flat-square" alt="Rank 20" /><br />
-        <br />
+      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
+        <p style="margin: 0; margin-bottom: 5px;"><b>🎯 2017</b></p>
+        <a href="assets/2017-CUET-CSE-FEST.pdf" target="_blank" rel="noopener noreferrer">
+          <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">CUET CSE Fest</h3>
+        </a>
+        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
+        <img src="https://img.shields.io/badge/RANK-20-blue?style=flat-square" alt="Rank 20" />
       </td>
       <!-- SECONDARY TILE: ICPC REGIONAL -->
-      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
-        <br />
-        <b>📜 2017</b><br />
-        <a href="assets/2017-ICPC-DHAKA-REGIONAL-SITE-ONLINE-PRELIMINARY-CONTEST.pdf" target="_blank" rel="noopener noreferrer">ICPC Regional Site</a><br />
-        <i>Competitive Programming</i><br /><br />
-        <img src="https://img.shields.io/badge/RANK-308-black?style=flat-square" alt="Rank 308" /><br />
-        <br />
+      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
+        <p style="margin: 0; margin-bottom: 5px;"><b>📜 2017</b></p>
+        <a href="assets/2017-ICPC-DHAKA-REGIONAL-SITE-ONLINE-PRELIMINARY-CONTEST.pdf" target="_blank" rel="noopener noreferrer">
+          <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">ICPC Regional Site</h3>
+        </a>
+        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
+        <img src="https://img.shields.io/badge/RANK-308-black?style=flat-square" alt="Rank 308" />
       </td>
     </tr>
     <tr>
       <!-- TILE: MAGNET AXIOM | DIGITAL FORENSICS -->
-      <td colspan="2" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;">
-        <img src="https://img.icons8.com/bubbles/100/shield.png" width="50" alt="Security Shield" /><br />
-        <img src="https://img.shields.io/badge/Magnet_Axiom-Digital_Forensics-E11D48?style=flat-square" alt="Magnet Axiom" /><br />
+      <td colspan="2" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">🔬 2019</h3>
         <a href="assets/2019-FOUNDATIONS-IN-DIGITAL-FORENSIC-WITH-MAGNET-AXIOM.pdf" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/VIEW-CERTIFICATE-success?style=flat-square" alt="View Photo" />
+          <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Magnet Axiom</b></h3>
         </a>
+        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Intensive Workshop on Foundations in Digital Forensics</i></p>
+        <img src="https://img.shields.io/badge/72h_INTENSIVE_FORENSIC_BOOTCAMP-E11D48?style=for-the-badge" height="28" alt="Magnet Axiom" />
       </td>
     </tr>
   </table>
@@ -248,24 +249,22 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   <table align="center" style="width: 100%; border-collapse: separate; border-spacing: 12px;">
     <tr>
       <!-- PRIMARY HIGHLIGHT: GOOGLE CLOUD AI/ML -->
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 25px; background: rgba(66, 133, 244, 0.05);">
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 15px; padding: 12px; background: rgba(66, 133, 244, 0.05); line-height: 1.3;">
+        <img src="https://img.icons8.com/fluency/100/google-cloud.png" width="70" alt="Google Cloud Icon" />
         <br />
-        <img src="https://img.icons8.com/fluency/100/google-cloud.png" width="80" alt="Google Cloud Icon" />
-        <br /><br />
         <img src="https://img.shields.io/badge/Google_Cloud-Machine_Learning-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-        <br /><br />
-        <h3><b>Managing Machine Learning Projects</b></h3>
-        <p><i>Orchestrating enterprise-scale AI lifecycles and autonomous ML orchestration systems.</i></p>
-        <br />
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;"><b>Managing Machine Learning Projects</b></h3>
+        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Orchestrating enterprise-scale AI lifecycles and autonomous ML orchestration systems.</i></p>
         <a href="assets/2020-COURSERA-MANAGING MACHINE LEARNING PROJECTS WITH GOOGLE CLOUD.pdf" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-blue?style=for-the-badge&logo=googlecloud" alt="Verify Credential" />
+          <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-blue?style=for-the-badge&logo=googlecloud" height="28" alt="Verify Credential" />
         </a>
-        <br /><br />
       </td>
       <!-- SECONDARY: DEEPLEARNING.AI -->
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background: rgba(255, 111, 0, 0.05);">
-        <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" width="50" alt="AI Icon" /><br />
-        <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-FF6F00?style=plastic&logo=coursera" alt="DeepLearning.AI" /><br />
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background: rgba(255, 111, 0, 0.05); line-height: 1.3;">
+        <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png" width="40" alt="AI Icon" />
+        <br />
+        <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-FF6F00?style=plastic&logo=coursera" alt="DeepLearning.AI" />
+        <br />
         <a href="assets/2020-COURSERA-AI-FOR-EVERYONE.pdf" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-orange?style=flat-square" alt="Verify Credential" />
         </a>
@@ -273,17 +272,17 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
     </tr>
     <tr>
       <!-- SECONDARY: CORE PYTHON -->
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 25px; background: rgba(255, 203, 5, 0.05);">
-        <img src="https://img.shields.io/badge/Michigan-Core_Python-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Core Python" /><br /><br />
-        <p><b>Core Python</b></p>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background: rgba(255, 203, 5, 0.05); line-height: 1.3;">
+        <img src="https://img.shields.io/badge/Michigan-Core_Python-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Core Python" />
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">Core Python</h3>
         <a href="assets/2020-COURSERA-GETTING STARTED WITH PYTHON.pdf" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=flat-square" alt="Verify Credential" />
         </a>
       </td>
       <!-- SECONDARY: DATA STRUCTURES -->
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 25px; background: rgba(255, 203, 5, 0.05);">
-        <img src="https://img.shields.io/badge/Michigan-Data_Structures-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Data Structures" /><br /><br />
-        <p><b>Data Structures</b></p>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; background: rgba(255, 203, 5, 0.05); line-height: 1.3;">
+        <img src="https://img.shields.io/badge/Michigan-Data_Structures-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="Data Structures" />
+        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">Data Structures</h3>
         <a href="assets/2020-COURSERA-PYTHON DATA STRUCTURES.pdf" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-↗-yellow?style=flat-square" alt="Verify Credential" />
         </a>
