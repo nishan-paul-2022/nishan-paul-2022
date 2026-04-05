@@ -320,24 +320,24 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   <table width="100%" style="border-collapse: collapse; border: none; border-spacing: 15px;">
     <tr>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(35, 134, 54, 0.05);">
-        <img src="https://img.shields.io/badge/EXPERIENCE_TENURE-4.2_YEARS-3fb950?style=for-the-badge&logo=opsgenie&logoColor=white" width="280" />
+        <img src="https://img.shields.io/badge/EXPERIENCE_TENURE-4.2_YEARS-3fb950?style=for-the-badge&logo=opsgenie&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(88, 166, 255, 0.05);">
-        <img src="https://img.shields.io/badge/COMMIT_VELOCITY-58.3_PER_MO-blue?style=for-the-badge&logo=speedtest&logoColor=white" width="280" />
+        <img src="https://img.shields.io/badge/COMMIT_VELOCITY-58.3_PER_MO-blue?style=for-the-badge&logo=speedtest&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(163, 113, 247, 0.05);">
-        <img src="https://img.shields.io/badge/TOTAL_COMMIT_COUNT-2908_COMMITS-a371f7?style=for-the-badge&logo=git&logoColor=white" width="280" />
+        <img src="https://img.shields.io/badge/TOTAL_COMMIT_COUNT-2908_COMMITS-a371f7?style=for-the-badge&logo=git&logoColor=white" height="35" />
       </td>
     </tr>
     <tr>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(248, 81, 73, 0.05);">
-        <img src="https://img.shields.io/badge/ACTIVE_CODING_STREAK-89_DAYS_🔥-f85149?style=for-the-badge&logo=hotjar&logoColor=white" width="280" />
+        <img src="https://img.shields.io/badge/ACTIVE_CODING_STREAK-89_DAYS_🔥-f85149?style=for-the-badge&logo=hotjar&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(210, 153, 34, 0.05);">
-        <img src="https://img.shields.io/badge/SYSTEM_DENSITY-20,820_LOC-d29922?style=for-the-badge&logo=files&logoColor=white" width="280" />
+        <img src="https://img.shields.io/badge/SYSTEM_DENSITY-20,820_LOC-d29922?style=for-the-badge&logo=files&logoColor=white" height="35" />
       </td>
       <td width="33%" align="center" style="padding: 25px; border: 1px solid #30363d; border-radius: 15px; background: rgba(240, 246, 252, 0.05);">
-        <img src="https://img.shields.io/badge/AGGREGATED_CODE_VOLUME-541,335_LOC-f0f6fc?style=for-the-badge&logo=github&logoColor=black" width="280" />
+        <img src="https://img.shields.io/badge/AGGREGATED_CODE_VOLUME-541,335_LOC-f0f6fc?style=for-the-badge&logo=github&logoColor=black" height="35" />
       </td>
     </tr>
   </table>
