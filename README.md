@@ -5,7 +5,7 @@
   </a>
 
   # 🦅 Nishan Paul
-  ### **Full-Stack AI Engineer | DevOps | Cybersecurity | Research**
+  ### **Fullstack AI Engineer | DevOps | Cybersecurity | Research**
 
   <p align="center">
     <a href="https://github.com/nishan-paul-2022" target="_blank" rel="noopener noreferrer">
@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Paul**. A passionate software engineer with a deep fascination for building intelligent, secure, and scalable digital systems. My expertise spans across **Full-Stack Development**, **Artificial Intelligence**, and **DevOps**. Focused on the convergence of **Agentic AI** and **Cybersecurity**, leveraging autonomous multi-agent orchestration to fortify digital ecosystems.
+Hi, I'm **Paul**. A passionate software engineer with a deep fascination for building intelligent, secure, and scalable digital systems. My expertise spans across **Fullstack Development**, **Artificial Intelligence**, and **DevOps**. Focused on the convergence of **Agentic AI** and **Cybersecurity**, leveraging autonomous multi-agent orchestration to fortify digital ecosystems.
 
 - 🎓 **MSc in Cybersecurity** — [**University of Dhaka**](https://www.du.ac.bd/) (**Ongoing**)
 - 🎓 **BSc in Computer Science** — [**Chittagong University of Engineering & Technology (CUET)**](https://www.cuet.ac.bd/)
